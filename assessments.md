@@ -52,7 +52,7 @@ The goal for these quizzes is to promote the memorization of basic information t
 
 ## Conceptual videos
 
-Each week (beginning with Week 2), you will submit three conceptual videos. These videos will be uploaded to the dropbox on the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other isntructions are provided), and will count towards the Theory 3 grade. They will be graded pass/not-pass, but you will have a reassessment opportunity (see below). There is no collaboration for these videos.
+Each week (beginning with Week 2), you will submit three conceptual videos. These videos will be uploaded to the dropbox on the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other instructions are provided), and will count towards the Theory 3 grade. They will be graded pass/not-pass, but you will have a reassessment opportunity (see below). There is no collaboration for these videos.
 
 These videos should be *no more than 90 seconds*, and in them you should explain the concept in your own words and present at least one example of application to elucidate that explanation. These examples of application should be pieces of music *not covered in class or in Open Music Theory*. Examples can come from existing pieces in the repertoire, or pieces that you compose yourself.
 
@@ -84,7 +84,7 @@ Each major unit of study will contain an end-of-unit project in which you will d
 
 ## Prepared performance
 
-Each unit of study will contain a prepared performance portfolio for you to create. Videos will be submitted in the dropbox of the Aural Skills 3 D2L site, and will count toward the Aural Skills 3 grade. Some videos will be individual, others for a small ensemble.
+In each unit of study, you will create a portfolio of prepared performance videos. Videos will be submitted in the dropbox of the Aural Skills 3 D2L site, and will count toward the Aural Skills 3 grade. Some videos will be individual, others for a small ensemble.
 
 Make a video of yourself performing each of the pieces in the portfolio. Each video in the portfolio will be assessed according to a 2-point rubric:
 
