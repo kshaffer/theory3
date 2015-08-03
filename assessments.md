@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assessment guide
-subTitle: "Music Theory & Aural Skills 3 (MUSC 2101 & 2121), Fall 2015"
+subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121), CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: homework.jpg
 ---
 
