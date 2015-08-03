@@ -97,12 +97,32 @@ Grades for each improvisation exam will be assigned as follows:
 - 0 points: no attempt, or inaccuracies on the skeleton notes of the schemas.
 
 
-## Fast transcription (dictation)
-
-
-
 ## Slow transcription
 
+This semester will contain a number of short, full-textured transcriptions, in both pop/rock and classical (typically keyboard or string-quartet) styles. Slow transcriptions will be submitted via the dropbox on the Aural Skills 3 D2L page and will count toward the Aural Skills 3 grade.
+
+Each transcription will be evaluated for accuracy of four musical features:
+
+- melody (pitch, rhythm, and register)  
+- bass line (pitch, rhythm, and register)  
+- harmony (lead-sheet chord symbols for pop/rock, Roman numerals and T/S/D labels for classical)  
+- inner/other voices (all vocal parts and melodic instruments for pop/rock, all voices/parts for classical)
+
+Each of these features will be given a score on the following 3-point scale (total of 12 points per transcription):
+
+- 3 points: a performance-ready transcription (most professional musicians would not be able to tell that it contained mistakes).  
+- 2 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
+- 1 point: more than three noticeable mistakes.  
+- 0 points: not attempted, or attempt reflects little-to-no substantive effort.
+
+The best three pop/rock transcriptions and the best three classical transcriptions will count towards the final grade.
+
+
+## Fast transcription (dictation)
+
+This semester will also contain a number of short transcription exercises, focusing solely on melodies and bass lines in both pop/rock and classical styles. Assessments will generally take place in the Monday/Wednesday classes and will count toward the Aural Skills 3 grade.
+
+Each fast transcription assignment will contain 2–3 melodies or bass lines, and each melody/bass line will be given a single score on the same 3-point scale as the slow transcriptions. The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
 
 
 ## Grades (from the syllabus)
