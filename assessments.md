@@ -5,11 +5,6 @@ subTitle: "Music Theory & Aural Skills 3 (MUSC 2101 & 2121), Fall 2015"
 image: homework.jpg
 ---
 
-Following are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
-
-*Some of the assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
-
-
 ## Grades (from the syllabus)
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
@@ -34,7 +29,10 @@ Following are assessment types that comprise the final Aural Skills 3 grade:
 - **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
 - **Slow transcription** - 25% of the final Aural Skills 3 grade.  
 
-Details about each assessment type and how they will be graded follow.
+Following are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
+
+*Some of the assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
+
 
 ## Reading/video quizzes (at-home)
 
