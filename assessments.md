@@ -141,6 +141,8 @@ Each of these features will be given a score on the following 3-point scale (tot
 
 The best three pop/rock transcriptions and the best three classical transcriptions will count towards the final grade.
 
+I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process.
+
 
 ## Fast transcription (dictation)
 
