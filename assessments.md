@@ -36,7 +36,7 @@ Videos that explain the concept accurately and coherently with a relevant exampl
 
 For each concept, one student video will be shared publicly (with that student's permission) with the class on our collaborative concept map. Throughout the course, this map will provide a high-quality set of concise explanations for student review and public consumption.
 
-*Example video?(s) forthcoming.*
+*Example video(s) forthcoming.*
 
 ## Conceptual mapping
 
@@ -60,9 +60,52 @@ Each major unit of study will contain an end-of-unit project in which you will d
 
 ## Prepared performance
 
+Each unit of study will contain a prepared performance portfolio for you to create. Videos will be submitted in the dropbox of the Aural Skills 3 D2L site, and will count toward the Aural Skills 3 grade. Some videos will be individual, others for a small ensemble.
+
+Make a video of yourself performing each of the pieces in the portfolio. Each video in the portfolio will be assessed according to a 2-point rubric:
+
+- 2 points: accurate, concert-ready performance  
+- 1 point: an honest attempt, but not yet concert-ready  
+- 0 points: no attempt made, or video reflects little-to-no preparation
+
+Video performances will generally be due early in the unit, submitted on by 8am on Mondays. Videos receiving 1 point will be allowed to submit a second video one week after the original due date, in order to re-attempt the full 2 points (accurate, concert-ready performance). Further reassessments *may* be allowed, at the discretion of the Tuesday/Thursday section instructor.
+
+Details about specific pieces, collaboration options, etc. will be provided as performance videos are assigned.
+
+## Live performance (from sight or improvized)
+
+This course contains the following three live-performance objectives:
+
+- Sight-read a melody of moderate complexity in a contemporary pop/rock style, at an instrument or voice of choice.  
+- Sight-read a melody that follows the formal conventions of classical/*galant* themes, sung with solfege.  
+- Improvize a melody that follows the formal conventions of classical/*galant* themes, at an instrument or voice of choice.
+
+These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to a 3-point rubric (see below), and will count towards the Aural Skills 3 grade. Two exam slots will be reserved for the pop/rock objective, and three exam slots will be reserved for the two classical/*galant* objectives. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
+
+Grades for each sight-reading exam will be assigned as follows:
+
+- 3 points: a (nearly) flawless performance on the first or second attempt.  
+- 2 points: a strong performance with a few small mistakes, or which requires more than two attempts to sound concert-ready.  
+- 1 point: an honest attempt, but with significant errors.  
+- 0 points: no attempt or performance reflects little-to-no preparation.
+
+Grades for each improvisation exam will be assigned as follows:
+
+- 3 points: a stylistically appropriate performance with 3 or more notes in most stages of the schemas and several diatonic and chromatic embellishing tones, on the first or second attempt.  
+- 2 points: a stylistically appropriate performance with 1 or 2 notes in most stages and/or minimal use of embellishing tones, on the first or second attempt.  
+- 1 point: an accurate performance of the skeleton notes of the schemata, but little-to-no embellishment, on the first or second attempt.  
+- 0 points: no attempt, or inaccuracies on the skeleton notes of the schemas.
 
 
-## Assessments & grades (from the syllabus)
+## Fast transcription (dictation)
+
+
+
+## Slow transcription
+
+
+
+## Grades (from the syllabus)
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
 
@@ -82,6 +125,6 @@ Following are assessment types that comprise the final Theory 3 grade:
 Following are assessment types that comprise the final Aural Skills 3 grade:
 
 - **Prepared performance (voice and/or instrument)** - 25% of the final Aural Skills 3 grade.  
-- **Live performance (from sight or improvised)** - 25% of the final Aural Skills 3 grade.  
+- **Live performance (from sight or improvized)** - 25% of the final Aural Skills 3 grade.  
 - **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
 - **Slow transcription** - 25% of the final Aural Skills 3 grade.  
