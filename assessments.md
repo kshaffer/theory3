@@ -92,7 +92,7 @@ Make a video of yourself performing each of the pieces in the portfolio. Each vi
 - 1 point: an honest attempt, but not yet concert-ready  
 - 0 points: no attempt made, or video reflects little-to-no preparation
 
-Video performances will generally be due early in the unit, submitted on by 8am on Mondays. Videos receiving 1 point will be allowed to submit a second video one week after the original due date, in order to re-attempt the full 2 points (accurate, concert-ready performance). Further reassessments *may* be allowed, at the discretion of the Tuesday/Thursday section instructor.
+Video performances will generally be due early in the unit, submitted by 8am on Mondays. Videos receiving 1 point will be allowed to submit a second video one week after the original due date, in order to re-attempt the full 2 points (accurate, concert-ready performance). Further reassessments *may* be allowed, at the discretion of the Tuesday/Thursday section instructor.
 
 Details about specific pieces, collaboration options, etc. will be provided as performance videos are assigned.
 
@@ -144,7 +144,7 @@ The best three pop/rock transcriptions and the best three classical transcriptio
 
 ## Fast transcription (dictation)
 
-This semester will also contain a number of short transcription exercises, focusing solely on melodies and bass lines in both pop/rock and classical styles. Assessments will generally take place in the Monday/Wednesday classes and will count toward the Aural Skills 3 grade.
+This semester will also contain a number of short transcription exercises, focusing solely on melodies and bass lines in both pop/rock and classical styles. Assessments will generally take place during the Monday/Wednesday classes and will count toward the Aural Skills 3 grade.
 
 Each fast transcription assignment will contain 2–3 melodies or bass lines, and each melody/bass line will be given a single score on the same 3-point scale as the slow transcriptions. The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
 
