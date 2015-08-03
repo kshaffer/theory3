@@ -7,21 +7,34 @@ image: memory.jpg
 
 ## Schedule
 
-**Monday, August 24:** Introductions  
-**Tuesday, August 25:** Conceptual workshop on syncopation in pop/rock  
-***Due Wednesday, August 26, before class:*** *Reading/video quiz*  
-**Wednesday, August 26:** Pop/rock syncopation in depth  
-**Thursday, August 27:** Performing pop/rock syncopation (with instruments)
+**Monday, August 31:** Modes, mixture, melody  
+**Tuesday, September 1:** Performing pop/rock melodies  
+***Due Wednesday, September 2, before class:*** *Reading/video quiz*  
+**Wednesday, September 2:** Modes, mixture (cont.), schemata  
+**Thursday, September 3:** Performing pop/rock melodies & IDing schemata
 
-***Due Monday, August 31, 8am:*** *Reading/video quiz*
+***Due Monday, September 7, 8am:*** *Reading/video quiz*
 
 ## Core concepts
 
 In this unit, we will explore the following core concepts:
 
-- Syncopation  
-- Fake triplets  
-
+- Major pentatonic collection  
+- Minor pentatonic collection  
+- Dorian mode  
+- Phrygian mode  
+- Lydian mode  
+- Mixolydian mode  
+- Modal mixture  
+- 50s doo-wop progression  
+- singer/songwriter progression  
+- Puff progression  
+- Blues progression  
+- Pachelbel progression  
+- Lament progression  
+- Circle-of-fifths progression  
+- Plagal progressions  
+- Rock’s “tonal systems”  
 
 
 ## Assignments
