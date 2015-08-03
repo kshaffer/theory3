@@ -9,7 +9,7 @@ image: homework.jpg
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
 
-My goal in grading is three-fold: to diminish their significance and the negative impact they can have on the learning environment, to direct your studies clearly (but flexibly), and to make sure that they do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
+My goal in grading is three-fold: to diminish the significance and the negative impact grades can have on the learning environment, to direct your studies clearly (but flexibly) to specific areas that need attention, and to make sure that grades do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 
 With that in mind, assessment will be oriented around specific concepts and skills, and in order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt. All assessments within a category will be weighted equally.
 
@@ -29,7 +29,7 @@ Following are assessment types that comprise the final Aural Skills 3 grade:
 - **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
 - **Slow transcription** - 25% of the final Aural Skills 3 grade.  
 
-Following are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
+Below are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
 
 *Some of the assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
 
@@ -38,9 +38,9 @@ Following are written and/or video descriptions of the activities that will be a
 
 There will be two reading/video assignments most weeks, with online reading quizzes due to be completed by 8am on Monday and Wednesday. These quizzes will run in the D2L site for Theory 3, and will count towards the Theory 3 grade. Only quizzes submitted by students present in class will be assessed.
 
-Online quizzes will be open-note, will include mostly informational questions, and will be graded by percentage of questions answered correctly. Most quizzes will contain one or two questions that are created in order to get you thinking about conceptual questions that we will engage during class, and to give me information about everyone's general level of understanding before class. These questions will receive full credit for any honest attempt, regardless of correctness, and will be labeled as "graded for attempt only."
+Online quizzes will be open-note, will include mostly informational questions, and will be graded by percentage of questions answered correctly. Most quizzes will contain one or two questions that are created in order to get you thinking about conceptual issues that we will engage during class, and to give me information about everyone's general level of understanding before class. These questions will receive full credit for any honest attempt, regardless of correctness, and will be labeled as "graded for attempt only."
 
-While these quizzes are open-note and collaboration is allowed, I highly encourage you to attempt them individually without consulting readings or notes, and then go back to your notes (and/or your study partner's notes) and correct any mistakes before submitting your answers. This will give you both recall practice and correctness feedback, two of the most helpful things you can do in order to memorize the information correctly (and prepare for in-class quizzes).
+While these quizzes are open-note and collaboration is allowed, I highly encourage you to attempt them individually without consulting readings or notes, and then go back to your notes (and/or your study partner's notes) and correct any mistakes before submitting your answers. This will give you both practice recalling the information and feedback when you are incorrect — two of the most helpful things for memorizing information correctly (and preparing for in-class quizzes).
 
 ## Reading/video quizzes (in-class)
 
@@ -48,7 +48,7 @@ Most class meetings will begin with a short (5 minutes or less) paper-based, clo
 
 All of the questions on these quizzes will be taken from previous online quizzes, including the online quiz due on that class day. While questions from all quizzes are fair game, most of the questions on these in-class quizzes will be taken from the most recent online quizzes.
 
-The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course.
+The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 15% of quiz grades will be dropped when calculating your final grade. 
 
 ## Conceptual videos
 
