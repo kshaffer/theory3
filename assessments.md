@@ -10,6 +10,32 @@ Following are written and/or video descriptions of the activities that will be a
 *Some of the assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
 
 
+## Grades (from the syllabus)
+
+The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
+
+My goal in grading is three-fold: to diminish their significance and the negative impact they can have on the learning environment, to direct your studies clearly (but flexibly), and to make sure that they do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
+
+With that in mind, assessment will be oriented around specific concepts and skills, and in order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt. All assessments within a category will be weighted equally.
+
+Following are assessment types that comprise the final Theory 3 grade:
+
+- **Online quizzes (open-note)** - 15% of the final Theory 3 grade.  
+- **In-class quizzes (closed-note)** - 15% of the final Theory 3 grade.  
+- **Conceptual videos** - 30% of the final Theory 3 grade.  
+- **Conceptual connections** - 10% of the final Theory 3 grade.  
+- **Application assignments** - 20% of the final Theory 3 grade.  
+- **Synthesis projects** - 10% of the final Theory 3 grade.
+
+Following are assessment types that comprise the final Aural Skills 3 grade:
+
+- **Prepared performance (voice and/or instrument)** - 25% of the final Aural Skills 3 grade.  
+- **Live performance (from sight or improvized)** - 25% of the final Aural Skills 3 grade.  
+- **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
+- **Slow transcription** - 25% of the final Aural Skills 3 grade.  
+
+Details about each assessment type and how they will be graded follow.
+
 ## Reading/video quizzes (at-home)
 
 There will be two reading/video assignments most weeks, with online reading quizzes due to be completed by 8am on Monday and Wednesday. These quizzes will run in the D2L site for Theory 3, and will count towards the Theory 3 grade. Only quizzes submitted by students present in class will be assessed.
@@ -125,26 +151,3 @@ This semester will also contain a number of short transcription exercises, focus
 Each fast transcription assignment will contain 2–3 melodies or bass lines, and each melody/bass line will be given a single score on the same 3-point scale as the slow transcriptions. The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
 
 
-## Grades (from the syllabus)
-
-The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
-
-My goal in grading is three-fold: to diminish their significance and the negative impact they can have on the learning environment, to direct your studies clearly (but flexibly), and to make sure that they do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
-
-With that in mind, assessment will be oriented around specific concepts and skills, and in order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt. All assessments within a category will be weighted equally.
-
-Following are assessment types that comprise the final Theory 3 grade:
-
-- **Online quizzes (open-note)** - 15% of the final Theory 3 grade.  
-- **In-class quizzes (closed-note)** - 15% of the final Theory 3 grade.  
-- **Conceptual videos** - 30% of the final Theory 3 grade.  
-- **Conceptual connections** - 10% of the final Theory 3 grade.  
-- **Application assignments** - 20% of the final Theory 3 grade.  
-- **Synthesis projects** - 10% of the final Theory 3 grade.
-
-Following are assessment types that comprise the final Aural Skills 3 grade:
-
-- **Prepared performance (voice and/or instrument)** - 25% of the final Aural Skills 3 grade.  
-- **Live performance (from sight or improvized)** - 25% of the final Aural Skills 3 grade.  
-- **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
-- **Slow transcription** - 25% of the final Aural Skills 3 grade.  
