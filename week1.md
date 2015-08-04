@@ -28,7 +28,8 @@ In this unit, we will explore the following core concepts:
 
 **For Wednesday, August 26, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
 
-- [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)
+- [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
+- [*Make It Stick: The Science of Successful Learning*, Chapter 1]() (link forthcoming)  
 
 **For Monday, August 31, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
 
