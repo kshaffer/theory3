@@ -9,107 +9,75 @@ Music is an art. Music is a language. Music is therapy. Music is [a clinical too
 
 Music is nearly unparalleled in its ability to engage just about every facet of our lives. Perhaps only language has the same reach into our biology, psychology, individual identity, and social community. Music both frames, and is dependent on, our memory. Music both affects and flows from our emotions. Music both embodies and transcends cultural prejudice. And despite its heavily scientific base, even professional musicians treat it with an air of mystery.
 
-Music cognition explores all of these things. In a sense, music cognition is the study of music. And that is why to be a "cognitive musicologist" is as vague as to be a "musician." Some cognitive musicologists study the scientific basis of music theory; some explore the anthropological side of music in community; others are psychologists, neurologists, or psycholinguists with an interest in music; still others are therapists, studying music for its clinical value and employing it in the treatment of Alzheimers, autism, amnesia, or stroke-enduced aphasia.
+One goal of the music theory course sequence is to demistify musical structure, to help you as current and aspiring professional musicians understand the ways in which a variety of types of music are constructed, and what meanings can be attached to those structures. And if theory represents the conceptual side of musical structure and meaning, then aural skills represents (part of) the practical side ― uniting meaning with structure through musical practice. 
 
-A course in music cognition could easily become a class in neurology, psychology, linguistics, computational analysis, medicine... This class will serve as an overview of concepts that are foundational to these areas, and an introduction to some of those more specific fields. Final projects will afford students opportunities to delve deeply into one of these areas in accordance with their interests and goals.
+This year, we will be piloting the combination of theory and aural skills into a single course. Since the combination of theory and practice is often referred to as *praxis*, we could easily call this course Music Praxis. Some universities that treat these topics together call it simply Musicianship. We'll just call it Music Theory and Aural Skills. But note that this year, we will not be treating "written" and "aural" as two separate entities. Theory and practice, concept and embodiment, are inextricably linked in reality, and we will intentionally link them in our work this year.
+
+Because this is a pilot, there are a few administrative things that are less than ideal. For one, this combined course will receive two final grades ― one for theory and one for aural skills. There will also be separate D2L sites. We will do everything we can to make the logistics as smooth as possible. But please be patient with the institutional bureaucracies and technological intricacies.
 
 ## Starting out
 
-See the [Getting started](/introductions/) page.
+See the [Getting started](/introductions/) page for important information about the beginning of the course.
 
 ## General course information
 
-Course title: Advanced Topics in Psychology: Music Cognition  
-Course number: PSYC 4541
-Term: Summer 2015 (June)  
+Course title: Music Theory and Aural Skills 3  
+Course number: MUSI 2101 & 2121
+Term: Fall 2015  
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
 Physical office: MUS N138  
 Email: kris.shaffer@colorado.edu  
 Twitter: @krisshaffer  
-Course website: [cognition.shaffermusic.com](http://cognition.shaffermusic.com/)  
-Online community: [Twitter](http://twitter.com), hashtag #muscog  
-Discussion forum:  D2L
+Course website: [theory3.shaffermusic.com](http://theory3.shaffermusic.com/)    
+LMS/Gradebook:  D2L
 
-## Prerequisite knowledge
-
-Because music cognition is a heavily interdisciplinary field, I do not expect all students to come into the course at the same level of understanding of every topic we study. In fact, I expect that some of you will be more expert than me on some of the topics we cover. As many educators have said before me, "All of us are smarter than any of us," and we will seek to build on our complementary expertises, under my guidance as a music theoretical expert who has done both research and teaching in the cognitive science of music. That said, all students should be at least upper-division undergraduates majoring in one of the fields this course engages (psychology, cognitive science, neuroscience, music, linguistics, medicine, clinical therapy, etc.). This will ensure that all students have built a strong foundation in a field that will serve as a point of reference from which to relate to the topics of this course, and a base of expertise from which they can speak in our group discussions. Permission of the instructor may also be granted to students not meeting these prerequisites but who are otherwise prepared to engage these materials and contribute to our discussions.
 
 ## Required course materials
 
-- Bob Snyder, [*Music and Memory: An Introduction*](https://openlibrary.org/works/OL2782993W/Music_and_Memory).  
-- David Huron, [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation).  
 - [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
-- A web-enabled device that is capable of reading online text, accessing the course website, recording video, and participating in group video chats.    
-- A free, public Twitter account (pseudonyms allowed; please read [privacy policy](https://twitter.com/privacy?lang=en) before signing up).  
+- A web-enabled device that is capable of reading online text, accessing the course website, watching video, listening to Spotify or IMSLP audio, and recording video.    
 - An account to [Spotify](http://www.spotify.com) (a free account is fine).
 
 All other required class materials will be posted or linked to on the course site.
 
-N.B.: Before purchasing the two textbooks, please consider the choice of print v. electronic carefully. Research suggests that paper copies help most people retain information better than electronic books. On the other hand, ebooks are searchable in ways that print books are not. And, of course, cost is a factor. Finally, some ebook publishers collect data from consumers' ereaders, while others (and paper, of course) do not.
-
 
 ## Units of study
 
-Introduction (June 1): [Getting started](/introductions/)
+Unit I: Pop/Rock Music (approx. weeks 1–7) 
 
-Week 1 (June 2–5): [Introduction to auditory memory](/week1/)
+Unit II: Classical themes and sonatas (approx. weeks 8–15)
 
-Week 2 (June 8–12): [Music on the small scale – chords, phrases, rhythm](/week2/)
-
-Week 3 (June 15–19): [Schemas, categories, styles](/week3/)
-
-Week 4 (June 22–26): [Form, expectation, emotion](/week4/)
-
-Week 5 (June 29–July 3): [Final projects and reassessments](/week5/)
-
-
-## Coursework
-
-Students will be provided with the following informational resources to engage during each unit:
-
-**Readings** drawn from the required textbooks, and occasional supplemental resources such as scholarly articles from the field.
-
-**Videos** created by me, which will offer audio/visual explanations of concepts in the reading, demonstrations of how those concepts are applied in specific situations, contradictory perspectives to those expressed in the readings, and alternative explanations.
-
-**Core concept lists** will be provided for each unit, which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
-
-We will also have a private discussion forum for registered students (D2L), a public discussion forum (Twitter, using the hashtag #muscog), and twice-weekly video-chat office hours. These are the primary places for you to ask questions of clarification, to compare notes with each other as you work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application.
-
-Assessed coursework will include the following:
-
-- Introductory materials  
-- Reading/video quizzes  
-- Conceptual videos  
-- Video voting  
-- Conceptual mapping  
-- Final project  
-
-For details and examples, please see the [Assignment guide](/assessments/).
 
 ## Assessment & grades
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
 
-My goal in grading is three-fold: to diminish their significance and the negative impact they can have on the learning environment, to direct your studies clearly (but flexibly), and to make sure that they do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
+My goal in grading is three-fold: to diminish the significance and the negative impact grades can have on the learning environment, to direct your studies clearly (but flexibly) to specific areas that need attention, and to make sure that grades do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 
-With that in mind, assessment will be oriented around specific concepts and skills, all of which will be assessed pass/fail — no partial credit. In order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt.
+With that in mind, assessment will be oriented around specific concepts and skills, and in order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt. All assessments within a category will be weighted equally.
 
-Following are assessment types and points towards the final grade:
+Following are assessment types that comprise the final Theory 3 grade:
 
-- **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
-- **Quizzes:** 2 points each, 8 quizzes, total of 16 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
-- **Conceptual videos:** 1 point each, 15 videos required (5 per week during weeks 2–4). *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
-- **Video voting:** 1 point each, 3 weeks. No reassessments. Only comments received by the deadline will count.  
-- **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
-- **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
-- **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
+- **Online quizzes (open-note)** - 15% of the final Theory 3 grade.  
+- **In-class quizzes (closed-note)** - 15% of the final Theory 3 grade.  
+- **Conceptual videos** - 30% of the final Theory 3 grade.  
+- **Conceptual connections** - 10% of the final Theory 3 grade.  
+- **Application assignments** - 20% of the final Theory 3 grade.  
+- **Synthesis projects** - 10% of the final Theory 3 grade.
 
-These assignments total a possible 50 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
+Following are assessment types that comprise the final Aural Skills 3 grade:
+
+- **Prepared performance (voice and/or instrument)** - 25% of the final Aural Skills 3 grade.  
+- **Live performance (from sight or improvized)** - 25% of the final Aural Skills 3 grade.  
+- **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
+- **Slow transcription** - 25% of the final Aural Skills 3 grade.  
+
+For further details about assessment and grades, as well as example assignments, please see the [Assessment guide](/assessments/).
 
 
 ## Reaching the instructor
 
-The best ways to reach me during the course are [email](mailto:kris.shaffer@colorado.edu) and [Twitter](http://twitter.com/krisshaffer). Please allow up to 24 hours for a response, though during summer courses, I tend to respond much more quickly than that during morning and afternoon. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
+The best ways to reach me during the course are [email](mailto:kris.shaffer@colorado.edu) or simply stopping my my office. Please allow up to two class days for a response, though during the work week, I tend to respond much more quickly than that. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
 
 
 ## Technical support
