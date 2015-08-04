@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 2 – Pop/rock melody and harmony
-subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
+subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
 image: memory.jpg
 ---
 
