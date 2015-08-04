@@ -22,7 +22,7 @@ See the [Getting started](/introductions/) page for important information about 
 ## General course information
 
 Course title: Music Theory and Aural Skills 3  
-Course number: MUSI 2101 & 2121
+Course number: MUSI 2101 & 2121  
 Term: Fall 2015  
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
 Physical office: MUS N138  
@@ -35,7 +35,8 @@ LMS/Gradebook:  D2L
 ## Required course materials
 
 - [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
-- A web-enabled device that is capable of reading online text, accessing the course website, watching video, listening to Spotify or IMSLP audio, and recording video.    
+- A web-enabled device that is capable of reading online text, accessing the course website, watching video, listening to Spotify or IMSLP audio, and recording video.  
+- An active Google Apps account, using your CU IdentiKey credentials. (You all have this already, we will make a lot of use of it.)  
 - An account to [Spotify](http://www.spotify.com) (a free account is fine).
 
 All other required class materials will be posted or linked to on the course site.
@@ -55,6 +56,10 @@ The most important and interesting aspects of learning are things that are diffi
 My goal in grading is three-fold: to diminish the significance and the negative impact grades can have on the learning environment, to direct your studies clearly (but flexibly) to specific areas that need attention, and to make sure that grades do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 
 With that in mind, assessment will be oriented around specific concepts and skills, and in order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt. All assessments within a category will be weighted equally.
+
+I have done my best to keep the assessment simple, especially since there will naturally be a little confusion about the way that this combined course will produce separate grades for theory and aural skills. All assignments will be clearly marked as counting towards theory or aural skills, and all of the section instructors, graders, and I will do our best to ensure that the course gradesbooks (in D2L) are continually up-to-date. However, when questions and confusions inevitably arise, it is your responsibility to talk to your section instructor or to me as soon as you can so that we can straighten things out.
+
+### Final grade calculation
 
 Following are assessment types that comprise the final Theory 3 grade:
 
