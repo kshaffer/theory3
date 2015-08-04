@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121), CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
+subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: path.jpg
 ---
 
@@ -41,12 +41,9 @@ LMS/Gradebook:  D2L
 
 All other required class materials will be posted or linked to on the course site.
 
+## The music
 
-## Units of study
-
-Unit I: Pop/Rock Music (approx. weeks 1–7) 
-
-Unit II: Classical themes and sonatas (approx. weeks 8–15)
+This semester, we will engage music in two genres: *pop/rock music* of the late twentieth and early twenty-first centuries and *classical instrumental music* of the eighteenth century. Roughly half of the semester will be devoted to each, and we will engage both styles through performance, transcription, and analysis.
 
 
 ## Assessment & grades
