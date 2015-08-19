@@ -26,7 +26,11 @@ In this unit, we will explore the following core concepts:
 
 ## Assignments
 
-**For Wednesday, August 26, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Tuesday, August 25, 8am,** read the following, and come to class prepared to engage music in light of the concepts presented.
+
+- [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
+
+**For Wednesday, August 26, 8am,** read/review the following, and then take the quiz in the Theory 3 D2L site.
 
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
 - [*Make It Stick: The Science of Successful Learning*, Chapter 1]() (link forthcoming)  
