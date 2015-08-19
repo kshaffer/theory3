@@ -38,6 +38,7 @@ LMS/Gradebook:  D2L
 - A web-enabled device that is capable of reading online text, accessing the course website, watching video, listening to Spotify or IMSLP audio, and recording video.  
 - An active Google Apps account, using your CU IdentiKey credentials. (You all have this already, we will make a lot of use of it.)  
 - An account to [Spotify](http://www.spotify.com) (a free account is fine).
+- Staff paper and a pencil (bring to every class meeting).  
 
 All other required class materials will be posted or linked to on the course site.
 
