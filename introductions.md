@@ -5,7 +5,7 @@ subTitle: "Semester 3 Theory & Aural Skills (MUSC 2101 & 2121), CU–Boulder, Fa
 image: drain.jpg
 ---
 
-<a href="/img/twitterBio.jpg"><img src="/img/twitterBio-small.jpg" style="float: right; padding-left: 12px" alt="bio picture of Kris Shaffer, Ph.D."/></a>Welcome to the second year of the music theory and aural skills sequence at CU–Boulder! 
+Welcome to the second year of the music theory and aural skills sequence at CU–Boulder! 
 
 This year, we are trying something new for CU. We are combining second-year theory and aural skills courses into a single course. I will teach the two large "lecture" sections on Monday and Wednesday, and Mark Arnett and Elena Specht will teach the smaller "lab" sections on Tuesday and Thursday. Because this is a trial, there are still separate grades for theory and aural skills (explained in the [assessment guide](/assessments/)). However, we will flow more freely between what has traditionally been considered "written" and "aural" concepts, engaging both in any or all of our meetings. We hope that this combination will allow for deeper, more natural musical engagement, and more meaningful, long-lasting musical growth.
 
@@ -30,7 +30,7 @@ We will hit the ground running with our work on Day 1 (Monday, August 24). In or
 
 I'm personally looking forward to our time together this semester! I'll see you all on Monday morning!
 
-– Kris Shaffer, Ph.D.  
+<a href="/img/twitterBio.jpg"><img src="/img/twitterBio-small.jpg" style="float: right; padding-left: 12px" alt="bio picture of Kris Shaffer, Ph.D."/></a>– Kris Shaffer, Ph.D.  
 (for those of you who don't know me already, I prefer to be called Kris)
 
 *P.S. Feel free to browse the whole course website if you like, including the syllabus and assignment guide. We will also look at those together later this week.*
