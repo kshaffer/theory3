@@ -39,4 +39,3 @@ In this unit, we will explore the following core concepts:
 
 - [Collections and Scales](http://openmusictheory.com/scales2.html) (stop at "Whole-tone collection")  
 - [Modal mixture](http://openmusictheory.com/modalMixture.html) (skip the section on functional bass notation)  
-- [Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html)  

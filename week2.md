@@ -41,7 +41,7 @@ In this unit, we will explore the following core concepts:
 
 **For Monday, August 31, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
 
-- Modes (link coming soon)  
+- [Collections and Scales](http://openmusictheory.com/scales2.html) (stop at "Whole-tone collection")  
 - [Modal mixture](http://openmusictheory.com/modalMixture.html) (skip the section on functional bass notation)  
 
 **For Wednesday, September 2, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
