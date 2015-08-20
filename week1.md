@@ -30,8 +30,9 @@ In this unit, we will explore the following core concepts:
 
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
 
-**For Wednesday, August 26, 8am,** read/review the following, and then take the quiz in the Theory 3 D2L site.
+**For Wednesday, August 26, 8am,** read/review the following, and then prepare for [a closed-note, ungraded, in-class "quiz".](/week1quiz1/)
 
+- The [syllabus](/syllabus/)  
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
 - [*Make It Stick: The Science of Successful Learning*, Chapter 1](https://drive.google.com/open?id=0B9o4hmKNoi6cWmJfUE9MNW1RdVU) (You will need to login to Google Drive using your CU credentials to view/download this file. Your username is YourIdentiKey@colorado.edu *not* your regular email address. Password is your CU IndentiKey password.)  
 
