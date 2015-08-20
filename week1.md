@@ -30,7 +30,7 @@ In this unit, we will explore the following core concepts:
 
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
 
-**For Wednesday, August 26, 8am,** read/review the following, and then prepare for [a closed-note, ungraded, in-class "quiz".](/week1quiz1/)
+**For Wednesday, August 26, 8am,** read/review the following, and then prepare for [a closed-note, ungraded, in-class "quiz"](/week1quiz1/).
 
 - The [syllabus](/syllabus/)  
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
