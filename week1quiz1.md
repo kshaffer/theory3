@@ -5,7 +5,7 @@ subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, 
 image: string.jpg
 ---
 
-Wednesday's class will begin with a closed-note, ungraded "quiz." The purpose of this "quiz" is to help you memorize some important basic concepts, and to have them fresh in your mind (what psychologists call "primed" in memory) as we begin class. This will hopefully allow for deeper class discussion and engagement with what we work on in class. The "quiz" will draw from the following questions. Find and memorize the answers to these questions in the readings.
+Wednesday's class will begin with a closed-note, ungraded "quiz." The purpose of this "quiz" is to help you memorize some important basic concepts, and to have them fresh in your mind (what psychologists call "primed" in memory) as we begin class. This will hopefully allow for deeper class discussion and engagement with what we work on in class. The "quiz" will draw from the following questions. Find and memorize the answers to these questions in Wednesday's readings.
 
 1. Define *praxis*.  
 2. Define *syncopation*.  
