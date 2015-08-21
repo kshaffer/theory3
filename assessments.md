@@ -19,12 +19,11 @@ I have done my best to keep the assessment simple, especially since there will n
 
 Following are assessment types that comprise the final Theory 3 grade:
 
-- **Online quizzes (open-note)** - 15% of the final Theory 3 grade.  
-- **In-class quizzes (closed-note)** - 15% of the final Theory 3 grade.  
+- **Online quizzes (open-note)** - 20% of the final Theory 3 grade.  
 - **Conceptual videos** - 30% of the final Theory 3 grade.  
 - **Conceptual connections** - 10% of the final Theory 3 grade.  
-- **Application assignments** - 20% of the final Theory 3 grade.  
-- **Synthesis projects** - 10% of the final Theory 3 grade.
+- **Application assignments** - 25% of the final Theory 3 grade.  
+- **Synthesis projects** - 15% of the final Theory 3 grade.
 
 Following are assessment types that comprise the final Aural Skills 3 grade:
 
@@ -46,13 +45,8 @@ Online quizzes will be open-note, will include mostly informational questions, a
 
 While these quizzes are open-note and collaboration is allowed, I highly encourage you to attempt them individually without consulting readings or notes, and then go back to your notes (and/or your study partner's notes) and correct any mistakes before submitting your answers. This will give you both practice recalling the information and feedback when you are incorrect — two of the most helpful things for memorizing information correctly (and preparing for in-class quizzes).
 
-## Reading/video quizzes (in-class)
-
-Most class meetings will begin with a short (5 minutes or less) paper-based, closed-note quiz. These quizzes will count towards the Theory 3 grade.
-
-All of the questions on these quizzes will be taken from previous online quizzes, including the online quiz due on that class day. While questions from all quizzes are fair game, most of the questions on these in-class quizzes will be taken from the most recent online quizzes.
-
 The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 15% of quiz grades will be dropped when calculating your final grade. 
+
 
 ## Conceptual videos
 
