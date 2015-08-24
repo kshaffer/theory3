@@ -40,7 +40,7 @@ If you would like to follow up on Monday's work with "New Year's Day" by U2, her
 
 - The [syllabus](/syllabus/)  
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
-- [*Make It Stick: The Science of Successful Learning*, Chapter 1](https://drive.google.com/open?id=0B9o4hmKNoi6cWmJfUE9MNW1RdVU) (You will need to login to Google Drive using your CU credentials to view/download this file. Your username is YourIdentiKey@colorado.edu *not* your regular email address. Password is your CU IndentiKey password.)  
+- [*Make It Stick: The Science of Successful Learning*, Chapter 1](https://drive.google.com/open?id=0B9o4hmKNoi6cWmJfUE9MNW1RdVU) (You will need to be registered for the class and login to Google Drive using your CU credentials to view/download this file. Your username is YourIdentiKey@colorado.edu *not* your regular email address. Password is your CU IndentiKey password.)  
 
 **For Monday, August 31, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
 
