@@ -9,7 +9,7 @@ image: string.jpg
 
 **Monday, August 24:** Introductions  
 **Tuesday, August 25:** Conceptual workshop on syncopation in pop/rock  
-***Due Wednesday, August 26, before class:*** *Reading/video quiz*  
+***Due Wednesday, August 26, before class:*** *memorize answers to reflection questions*  
 **Wednesday, August 26:** Pop/rock syncopation in depth  
 **Thursday, August 27:** Performing pop/rock syncopation (with instruments)
 
