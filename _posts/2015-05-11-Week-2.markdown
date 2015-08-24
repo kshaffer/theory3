@@ -1,6 +1,6 @@
 ---
 layout: default
-image: stringSmall.jpg
+image: stringArtSmall.jpg
 category: Services
 title: Week 2 – August 31–September 3
 description: |
