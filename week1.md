@@ -30,12 +30,6 @@ In this unit, we will explore the following core concepts:
 
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
 
-If you would like to follow up on Monday's work with "New Year's Day" by U2, here is the audio and my transcription of the intro:
-
-- Spotify browser link: [https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ](https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ)  
-- Spotify URI (paste into the search bar in the app): spotify:track:4vvj5hekeftc4l64fLmOYJ  
-- [Transcription](https://drive.google.com/open?id=0B9o4hmKNoi6cRHF5ZldTWTRZT0k)
-
 **For Wednesday, August 26, 8am,** read/review the following, and then prepare for [a closed-note, ungraded, in-class "quiz"](/week1quiz1/).
 
 - The [syllabus](/syllabus/)  
