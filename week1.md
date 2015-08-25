@@ -36,7 +36,7 @@ In this unit, we will explore the following core concepts:
 - [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
 - [*Make It Stick: The Science of Successful Learning*, Chapter 1](https://drive.google.com/open?id=0B9o4hmKNoi6cWmJfUE9MNW1RdVU) (You will need to be registered for the class and login to Google Drive using your CU credentials to view/download this file. Your username is YourIdentiKey@colorado.edu *not* your regular email address. Password is your CU IndentiKey password.)  
 
-**For Monday, August 31, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Monday, August 31, 8am,** read/watch the following, and then take [this online quiz](https://docs.google.com/forms/d/12c1knWr04MuT2ANPvOYBnWLp-_RWPym6czQqNVmm-OI/viewform?usp=send_form) (this quiz counts towards the Theory 3 grade).
 
 - [Collections and Scales](http://openmusictheory.com/scales2.html) (stop at "Whole-tone collection")  
 - [Modal mixture](http://openmusictheory.com/modalMixture.html) (skip the section on functional bass notation)  

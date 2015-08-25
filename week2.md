@@ -39,7 +39,7 @@ In this unit, we will explore the following core concepts:
 
 ## Assignments
 
-**For Monday, August 31, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Monday, August 31, 8am,** read/watch the following, and then take [this online quiz](https://docs.google.com/forms/d/12c1knWr04MuT2ANPvOYBnWLp-_RWPym6czQqNVmm-OI/viewform?usp=send_form) (this quiz counts towards the Theory 3 grade).
 
 - [Collections and Scales](http://openmusictheory.com/scales2.html) (stop at "Whole-tone collection")  
 - [Modal mixture](http://openmusictheory.com/modalMixture.html) (skip the section on functional bass notation)  
