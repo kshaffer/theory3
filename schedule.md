@@ -2,7 +2,7 @@
 layout: page
 title: Assessment schedule
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
-image: homework.jpg
+image: watch.jpg
 ---
 
 *This is a schedule of the larger assessments during the course. It does not include the online reading quizzes that are due at the beginning of most class meetings, nor does it include the weekly conceptual video assignments that are due most Thursday mornings.*
