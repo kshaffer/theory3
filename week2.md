@@ -44,11 +44,11 @@ In this unit, we will explore the following core concepts:
 - [Collections and Scales](http://openmusictheory.com/scales2.html) (stop at "Whole-tone collection")  
 - [Modal mixture](http://openmusictheory.com/modalMixture.html) (skip the section on functional bass notation)  
 
-**For Wednesday, September 2, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Wednesday, September 2, 8am,** read/watch the following, and then take [this online quiz](https://docs.google.com/forms/d/17DyHqXTCYJKKeU7DkpDQ5gW3BCeKh46X4dNvK6mH8ME/viewform?usp=send_form).
 
-- [Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html)  
+- [Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html) (Be sure to visit the links for each individual progression type for more details and examples.)  
 
-**For Thursday, September 3, 8am,** make three conceptual videos, and submit them to the Theory 3 dropbox on D2L. Each video should be no more than 90 seconds long, and should explain one of the conre concepts listed above. (You may also include one or two core concepts from [Week 1](/week1/).) See the [Assessment Guide](/assessments/) for details about creating these videos before you begin.
+**For Thursday, September 3, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts listed above. (You may also include one core concept from [Week 1](/week1/).) See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin.
 
 **For Monday, September 7, 8am,** create a prepared performance video for the following pop/rock melody and submit to the dropbox on the Aural Skills 3 D2L site. See the [Assessment Guide](/assessments/) for submission and grading details.
 

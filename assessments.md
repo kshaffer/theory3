@@ -50,7 +50,7 @@ The goal for these quizzes is to promote the memorization of basic information t
 
 ## Conceptual videos
 
-Each week (beginning with Week 2), you will submit three conceptual videos. These videos will be uploaded to the dropbox on the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other instructions are provided), and will count towards the Theory 3 grade. They will be graded pass/not-pass, but you will have a reassessment opportunity (see below). There is no collaboration for these videos.
+Each week (beginning with Week 2), you will submit two conceptual videos. These videos will be uploaded to the dropbox on the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other instructions are provided), and will count towards the Theory 3 grade. They will be graded pass/not-pass, but you will have a reassessment opportunity (see below). There is no collaboration for these videos.
 
 These videos should be *no more than 90 seconds*, and in them you should explain the concept in your own words and present at least one example of application to elucidate that explanation. These examples of application should be pieces of music *not covered in class or in Open Music Theory*. Examples can come from existing pieces in the repertoire, or pieces that you compose yourself.
 
@@ -58,7 +58,12 @@ Videos that explain the concept accurately and coherently with a relevant exampl
 
 For each concept, one student video will be shared publicly (with that student's permission) with the class on our collaborative concept map. Throughout the course, this map will provide a high-quality set of concise explanations for student review and public consumption.
 
-*Example video(s) forthcoming.*
+**Examples (from a course in music cognition):**
+
+- [Learned auditory grouping](https://vimeo.com/129686217)  
+- [Secondary parameters](https://vimeo.com/132101450)  
+- [Nuance](https://vimeo.com/131795860)  
+
 
 ## Conceptual mapping
 
