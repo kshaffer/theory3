@@ -48,7 +48,7 @@ In this unit, we will explore the following core concepts:
 
 - [Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html) (Be sure to visit the links for each individual progression type for more details and examples.)  
 
-**For Thursday, September 3, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts listed above. (You may also include one core concept from [Week 1](/week1/).) See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin.
+**For Tuesday, September 8, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts listed above. (You may also include one core concept from [Week 1](/week1/).) See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin.
 
 **For Tuesday, September 8, 8am,** create a prepared performance video for one of the Video Portfolio excerpts, and submit to the dropbox on the Aural Skills 3 D2L site. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
