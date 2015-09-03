@@ -2,7 +2,7 @@
 layout: page
 title: Week 3 – Pop/rock voice-leading & transcription
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
-image: stringArt.jpg
+image: theEdge.jpg
 ---
 
 ## Schedule
