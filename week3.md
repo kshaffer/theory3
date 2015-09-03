@@ -38,7 +38,7 @@ In this unit, we will follow-up on, and practice applying core concepts from [We
 
 **For Monday, September 14, 8am,** create a prepared performance video for the second of the Video Portfolio excerpts, and submit to the dropbox on the Aural Skills 3 D2L site. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
-***For Monday, September 14, 8am,*** transcribe [this excerpt of "Sunday, Bloody Sunday"]() by U2. (You must be logged in to Google Drive with your CU credentials to access the audio.) Be sure to include all of the following in your transcription:
+***For Monday, September 14, 8am,*** transcribe [this excerpt of "Sunday, Bloody Sunday"]() by U2 (audio link coming soon — for enrolled students only). (You must be logged in to Google Drive with your CU credentials to access the audio.) Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
