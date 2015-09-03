@@ -38,14 +38,17 @@ In this unit, we will follow-up on, and practice applying core concepts from [We
 
 **For Monday, September 14, 8am,** create a prepared performance video for the second of the Video Portfolio excerpts, and submit to the dropbox on the Aural Skills 3 D2L site. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
-***For Monday, September 14, 8am,*** transcribe [this excerpt of "Sunday, Bloody Sunday"]() by U2 (audio link coming soon — for enrolled students only). (You must be logged in to Google Drive with your CU credentials to access the audio.) Be sure to include all of the following in your transcription:
+***For Monday, September 14, 8am,*** transcribe [this excerpt of "Sunday, Bloody Sunday"](https://drive.google.com/open?id=0B9o4hmKNoi6cfkFiTkNLMnNkQmVaNjFVZXloaGpFb3JGdDlmaXZMaTBfWDJSQnFQbFNNTEU) by U2 (must be logged into Google Drive with CU credentials to access audio). (You must be logged in to Google Drive with your CU credentials to access the audio.) Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
 - All vocal parts (lead and background)  
 - All instrumental parts (guitar, bass, etc.)  
 - Do *not* transcribe any full-chord guitar, synth, or piano parts. (The harmonic labels will account for that.)  
+- Do *not* transcribe drum parts (unless you want to...)  
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)
 
 Perform the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription to the Aural Skills 3 D2L Dropbox as two files: the original music notation file and a PDF score (in case we cannot open your original file).
+
+For grading information on this assignment, see the [Assessments Guide](/assessments/).
