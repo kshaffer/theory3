@@ -30,13 +30,13 @@ In this unit, we will follow-up on, and practice applying core concepts from [We
 
 ## Assignments
 
-**For Tuesday, September 8, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from [Week 2](/week2/). (You may also include one core concept from [Week 1](/week1/).) See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin.
+**For Tuesday, September 8, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts listed above. (You may also include one core concept from [Week 1](/week1/).) See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Upload your videos to a single folder in Google Drive called "Lastname - Conceptual Videos - Sept 8" ([see this video](https://vimeo.com/138322605) for detailed instructions), and then paste the link to that folder into [this form](https://docs.google.com/forms/d/1fbXT182ZYEcJuOKvludIlZxTtQ5B0S7xfkZplNY61ag/viewform?usp=send_form).
 
-**For Tuesday, September 8, 8am,** create a prepared performance video for one of the Video Portfolio excerpts, and submit to the dropbox on the Aural Skills 3 D2L site. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
+**For Tuesday, September 8, 8am,** create a prepared performance video for one of the Video Portfolio excerpts, and submit via Google Drive. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
 **For Thursday, September 10, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from [Week 1](/week1/) or [Week 2](/week2/). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin.
 
-**For Monday, September 14, 8am,** create a prepared performance video for the second of the Video Portfolio excerpts, and submit to the dropbox on the Aural Skills 3 D2L site. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
+**For Monday, September 14, 8am,** create a prepared performance video for the second of the Video Portfolio excerpts, and submit online. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
 ***For Monday, September 14, 8am,*** transcribe [this excerpt of "Sunday, Bloody Sunday"](https://drive.google.com/open?id=0B9o4hmKNoi6cfkFiTkNLMnNkQmVaNjFVZXloaGpFb3JGdDlmaXZMaTBfWDJSQnFQbFNNTEU) by U2 (must be logged into Google Drive with CU credentials to access audio). (You must be logged in to Google Drive with your CU credentials to access the audio.) Be sure to include all of the following in your transcription:
 
@@ -49,6 +49,6 @@ In this unit, we will follow-up on, and practice applying core concepts from [We
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)
 
-Perform the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription to the Aural Skills 3 D2L Dropbox as two files: the original music notation file and a PDF score (in case we cannot open your original file).
+Perform the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). (Submission instructions will be posted soon.)
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
