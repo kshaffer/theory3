@@ -48,4 +48,12 @@ Reassessments are allowed, but *only for videos that are submitted on-time* (see
 
 ## Uploading instructions
 
-I'm hoping that OIT will have our D2L site fully functional by Thursday or Friday. Once it is up, I will add full instructions for uploading to the Aural Skills 3 D2L site. If they do not get D2L up in time, we will use Google Drive. Either way, I will provide uploading instructions before the weekend.
+Please upload your videos and share them with your instructor/TAs via Google Drive. The following video provides detailed instructions. When setting up your shared folder, please be sure to share it (with editing privileges) with all of the theory & aural skills instructors and TAs (we share grading duties): kris.shaffer@colorado.edu, elena.specht@colorado.edu, mark.arnett@colorado.edu, and ida.findiku@colorado.edu.
+
+***video embed coming shortly***
+
+Then create a folder for this assignment, inside your main submissions folder, called "Lastname - Conceptual Videos - Sept 8". (Use your last name in place of "Lastname".) Insert your PDF and notation files into that folder, and paste the sharing link for that folder into the following form:
+
+<iframe src="https://docs.google.com/forms/d/1fbXT182ZYEcJuOKvludIlZxTtQ5B0S7xfkZplNY61ag/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+If you have any issues or difficulty, please [email me](mailto:kris.shaffer@colorado.edu) in advance of the deadline to still receive credit (earlier if you would like help before submitting).
