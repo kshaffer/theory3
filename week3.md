@@ -34,7 +34,7 @@ In this unit, we will follow-up on, and practice applying core concepts from [We
 
 **For Tuesday, September 8, 8am,** create a prepared performance video for one of the Video Portfolio excerpts, and submit via Google Drive. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
-**For Thursday, September 10, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from [Week 1](/week1/) or [Week 2](/week2/). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin.
+**For Thursday, September 10, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from [Week 1](/week1/) or [Week 2](/week2/). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Upload your videos to a single folder in Google Drive called "Lastname - Conceptual Videos - Sept 10" ([see this video](https://vimeo.com/138322605) for detailed instructions), and then paste the link to that folder into [this form](https://docs.google.com/forms/d/1x-Wc5aNPH0Jk_DKQjJZnrQdyNPRfI4ugRtHugb7y3iA/viewform?usp=send_form).
 
 **For Monday, September 14, 8am,** create a prepared performance video for the second of the Video Portfolio excerpts, and submit online. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
@@ -49,6 +49,6 @@ In this unit, we will follow-up on, and practice applying core concepts from [We
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)
 
-Perform the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). (Submission instructions will be posted soon.)
+Perform the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to a single folder in Google Drive called "Lastname - Transcription 1 - Sept 14" ([see this video](https://vimeo.com/138322605) for detailed instructions), and then paste the link to that folder into [this form](https://docs.google.com/forms/d/1ViI8S07FmtJ9iWZAMxWItvvL3MD4got9TWG31xcpCAs/viewform?usp=send_form).
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).

@@ -46,14 +46,19 @@ This assignment will count towards the Aural Skills 3 grade.
 
 Reassessments are allowed, but *only for videos that are submitted on-time* (see above).
 
-## Uploading instructions
+## Uploading instructions - Part 1 (September 8)
 
 Please upload your videos and share them with your instructor/TAs via Google Drive. The following video provides detailed instructions. When setting up your shared folder, please be sure to share it (with editing privileges) with all of the theory & aural skills instructors and TAs (we share grading duties): kris.shaffer@colorado.edu, elena.specht@colorado.edu, mark.arnett@colorado.edu, and ida.findiku@colorado.edu.
 
-***video embed coming shortly***
+<iframe src="https://player.vimeo.com/video/138322605" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138322605">Submitting an Assignment via Google Drive</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Then create a folder for this assignment, inside your main submissions folder, called "Lastname - Video Portfolio - Unit I". (Use your last name in place of "Lastname".) Insert your PDF and notation files into that folder, and paste the sharing link for that folder into the following form:
 
 <iframe src="https://docs.google.com/forms/d/14QbyDL73pXIlppaE5CovkPHSss-9opCfI5lqgkHmbls/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 If you have any issues or difficulty, please [email me](mailto:kris.shaffer@colorado.edu) in advance of the deadline to still receive credit (earlier if you would like help before submitting).
+
+
+## Uploading instructions - Part 2 (September 14)
+
+Follow the instructions above, and add your video to the same shared folder as the September 8 video. Then get the sharing link *for the new video* and [paste it into this form](https://docs.google.com/forms/d/1H_IAX6RGXKu-YmEyBuoGZdGcC60g0U5KuS2mnMz2H4E/viewform?usp=send_form).
