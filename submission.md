@@ -2,7 +2,7 @@
 layout: page
 title: Online Assignment Submission
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
-image: stringArt.jpg
+image: connect.jpg
 ---
 
 We will be using Google Drive as our mode of submitting assignments online and receiving feedback and grades. Following are general instructions for online submissions. Be sure to note any assignment-specific instructions provided in the weekly schedules.
