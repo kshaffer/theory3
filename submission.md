@@ -11,6 +11,8 @@ We will be using Google Drive as our mode of submitting assignments online and r
 
 The following video walks you through the process in detail. This is probably the best way to make sure you're doing it correctly. Please watch it and follow the instructions precisely, especially for the first few assignments as you get the hang of the procedure. (Barring unforeseen circumstances, we will use the same procedure *all year long* for theory and aural skills.)
 
+When you setup your shared folder, be sure to share it with kris.shaffer@colorado.edu, elena.specht@colorado.edu, mark.arnett@colorado.edu, and ida.findiku@colorado.edu.
+
 <iframe src="https://player.vimeo.com/video/138322605" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138322605">Submitting an Assignment via Google Drive</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 # Abbreviated written instructions
