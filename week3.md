@@ -49,8 +49,8 @@ In this unit, we will follow-up on, and practice applying core concepts from [We
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)
 
-Perform the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to a single folder in Google Drive called "Lastname - Transcription 1 - Sept 14" ([see this video](https://vimeo.com/138322605) for detailed instructions), and then paste the link to that folder into [this form](https://docs.google.com/forms/d/1ViI8S07FmtJ9iWZAMxWItvvL3MD4got9TWG31xcpCAs/viewform?usp=send_form).
+Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to a single folder in Google Drive called "Lastname - Transcription 1 - Sept 14" ([see this video](https://vimeo.com/138322605) for detailed instructions), and then paste the link to that folder into [this form](https://docs.google.com/forms/d/1ViI8S07FmtJ9iWZAMxWItvvL3MD4got9TWG31xcpCAs/viewform?usp=send_form).
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
 
-***For Monday, September 14, 8am,*** there will be a short reading and reading quiz posted before the weekend.
+***For Monday, September 14, 8am,*** the reading & quiz are cancelled. Focus on the transcription and performance assignments.
