@@ -68,28 +68,27 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 - [Form in pop/rock music – Formal functions](http://openmusictheory.com/popRockForm-functions) (only the following entries: "Strophe," "Intro," "Outro," "Refrain")  
 
 
-**For Thursday, September 17, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 4 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Upload your videos to a single folder in Google Drive called "Lastname - Conceptual Videos - Sept 17" ([see this video](https://vimeo.com/138322605) for detailed instructions), and then paste the link to that folder into [this form]() (link forthcoming).
+**For Thursday, September 17, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 4 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Submit the videos to the D2L theory site (details coming soon).
 
 **For Monday, September 21, 8am,** create a new prepared performance video for either or both of the Video Portfolio excerpts for which you did not already receive full credit (2/2), and submit online. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
-***For Monday, September 21, 8am,*** transcribe [this excerpt of "Soul Meets Body"]() (audio link forthcoming) by Death Cab for Cutie (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
+***For Monday, September 21, 8am,*** transcribe [this excerpt of "Soul Meets Body"](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cNTA0ZDdBV3ltX0k&usp=sharing) by Death Cab for Cutie (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
 - All vocal parts (lead and background)  
-- All instrumental parts (guitar, bass, etc.)  
-- Do *not* transcribe any full-chord guitar, synth, or piano parts. (The harmonic labels will account for that.)  
-- Do *not* transcribe drum parts (unless you want to...)  
+- All instrumental parts (guitar, bass, etc.) Note that because of the mix on this recording, the bass rhythm may be difficult to detect. Long tones (whole notes and half notes) that provide the bass pitch are fine for this assignment.  
+- Do *not* transcribe any full-chord guitar, synth, or piano parts. (The harmonic labels will account for that.) In this excerpt, that means no guitar or mandolin until 0:26 where the chordal strumming is replaced with actual melodic guitar lines.  
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)
 
-Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to a single folder in Google Drive called "Lastname - Transcription 1 - Sept 21" ([see this video](https://vimeo.com/138322605) for detailed instructions), and then paste the link to that folder into [this form]() (link forthcoming).
+Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the D2L Aural Skills site (instructions coming soon).
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
 
 ***For Monday, September 21, 8am,*** there is a strophic song analysis assignment. Details forthcoming.
 
-***For Monday, September 21, 8am,*** read the following and take [this online quiz]() (link forthcoming – hopefully we will have moved to D2L for this quiz). 
+***For Monday, September 21, 8am,*** read the following and take the quiz in D2L (details coming soon). 
 
 - [Form in pop/rock music – Formal containers and module structures](http://openmusictheory.com/popRockForm-containers) (read the sections not read in the previous assignment)  
 - [Form in pop/rock music – Formal functions](http://openmusictheory.com/popRockForm-functions) (only the following entries: "Bridge," "Closing Rhetoric")  
