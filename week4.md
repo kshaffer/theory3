@@ -72,7 +72,7 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 
 **For Monday, September 21, 8am,** create a new prepared performance video for either or both of the Video Portfolio excerpts for which you did not already receive full credit (2/2), and submit online. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
-***For Monday, September 14, 8am,*** transcribe [this excerpt of "Soul Meets Body"]() (audio link forthcoming) by Death Cab for Cutie (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
+***For Monday, September 21, 8am,*** transcribe [this excerpt of "Soul Meets Body"]() (audio link forthcoming) by Death Cab for Cutie (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  

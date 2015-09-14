@@ -62,3 +62,7 @@ If you have any issues or difficulty, please [email me](mailto:kris.shaffer@colo
 ## Uploading instructions - Part 2 (September 14)
 
 Follow the instructions above, and add your video to the same shared folder as the September 8 video. Then get the sharing link *for the new video* and [paste it into this form](https://docs.google.com/forms/d/1H_IAX6RGXKu-YmEyBuoGZdGcC60g0U5KuS2mnMz2H4E/viewform?usp=send_form).
+
+## Uploading instructions – reassessments (September 21)
+
+Follow the instructions above, and add your video to the same shared folder as the September 8 & 14 videos. Then get the sharing link *for the new video* and [paste it into this form](https://docs.google.com/forms/d/18MMCamiPnVKDRKyGv5YrxZbfJ4uulaazXCjVz-2kOIo/viewform?usp=send_form).
