@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Week 3 – Pop/rock voice-leading & transcription
+title: Week 4 – Pop/Rock form & sight-reading
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
-image: theEdge.jpg
+image: spiral.jpg
 ---
 
 ## Schedule
