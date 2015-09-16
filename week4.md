@@ -68,9 +68,9 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 - [Form in pop/rock music – Formal functions](http://openmusictheory.com/popRockForm-functions) (only the following entries: "Strophe," "Intro," "Outro," "Refrain")  
 
 
-**For Thursday, September 17, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 4 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Submit the videos to the D2L theory site (details coming soon).
+**For Thursday, September 17, 8am,** make ***two*** conceptual videos (submission instructions will be posted by Wednesday morning). Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 4 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Submit the videos to the D2L theory site (under "Content" then "Week 4").
 
-**For Monday, September 21, 8am,** create a new prepared performance video for either or both of the Video Portfolio excerpts for which you did not already receive full credit (2/2), and submit online. See the [Assignment instructions](/popRockVideoPortfolio/) for details.
+**For Monday, September 21, 8am,** create a new prepared performance video for either or both of the Video Portfolio excerpts for which you did not already receive full credit (2/2), and submit to the Aural Skills 3 D2L site (instructions coming soon). See the [Assignment instructions](/popRockVideoPortfolio/) for details.
 
 ***For Monday, September 21, 8am,*** transcribe [this excerpt of "Soul Meets Body"](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cNTA0ZDdBV3ltX0k&usp=sharing) by Death Cab for Cutie (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
@@ -86,9 +86,9 @@ Notate the transcription in notation software (such as MuseScore, NoteFlight, Fi
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
 
-***For Monday, September 21, 8am,*** there is a strophic song analysis assignment. Details forthcoming.
+***For Monday, September 21, 8am,*** there is a strophic song analysis assignment. [See full instructions here](/analysisStrophic/) and submit to the Theory 3 D2L site.
 
-***For Monday, September 21, 8am,*** read the following and take the quiz in D2L (details coming soon). 
+***For Monday, September 21, 8am,*** read the following and take the quiz in the Theory 3 D2L site (under "Content" then "Week 5"). 
 
 - [Form in pop/rock music – Formal containers and module structures](http://openmusictheory.com/popRockForm-containers) (read the sections not read in the previous assignment)  
 - [Form in pop/rock music – Formal functions](http://openmusictheory.com/popRockForm-functions) (only the following entries: "Bridge," "Closing Rhetoric")  
