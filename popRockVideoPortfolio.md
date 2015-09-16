@@ -65,4 +65,4 @@ Follow the instructions above, and add your video to the same shared folder as t
 
 ## Uploading instructions – reassessments (September 21)
 
-Follow the instructions above, and add your video to the same shared folder as the September 8 & 14 videos. Then get the sharing link *for the new video* and [paste it into this form](https://docs.google.com/forms/d/18MMCamiPnVKDRKyGv5YrxZbfJ4uulaazXCjVz-2kOIo/viewform?usp=send_form).
+Go to the [Aural Skills D2L site](https://learn.colorado.edu/d2l/home/120555), click on "Content", then click on "Week 5", and find the "Pop/rock prepared performance reassessments". Upload your new video(s) there.

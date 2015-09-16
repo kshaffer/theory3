@@ -82,7 +82,7 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)
 
-Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the D2L Aural Skills site (instructions coming soon).
+Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [Aural Skills 3 D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 5").
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
 
