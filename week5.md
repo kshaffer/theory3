@@ -37,11 +37,11 @@ image: killersVoc.jpg
 
 ## Assignments
 
-**For Thursday, September 17, 8am,** make ***two*** conceptual videos. Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 5 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Submit the videos to the D2L theory site (under "Content" then "Week 5").
+**For Thursday, September 24, 8am,** make ***two*** conceptual videos. Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 5 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Submit the videos to the D2L theory site (under "Content" then "Week 5").
 
 
 
-***For Monday, September 21, 8am,*** transcribe [Song TBA]() by TBA (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
+***For Monday, September 28, 8am,*** transcribe [Song TBA]() by TBA (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
@@ -55,9 +55,9 @@ Notate the transcription in notation software (such as MuseScore, NoteFlight, Fi
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
 
-***For Monday, September 21, 8am,*** there is an AABA song analysis assignment. [See full instructions here](/analysisAABA/) and submit to the Theory 3 D2L site.
+***For Monday, September 28, 8am,*** there is an AABA song analysis assignment. [See full instructions here](/analysisAABA/) and submit to the Theory 3 D2L site.
 
-***For Monday, September 21, 8am,*** read the following and take the quiz in the Theory 3 D2L site (under "Content" then "Week 6"). (Quiz forthcoming.)
+***For Monday, September 28, 8am,*** read the following and take the quiz in the Theory 3 D2L site (under "Content" then "Week 6"). (Quiz forthcoming.)
 
 - [Form in pop/rock music – overview](http://openmusictheory.com/popRockForm) (review "Verse-chorus form" to the end)  
 - [Form in pop/rock music – Formal functions](http://openmusictheory.com/popRockForm-functions) (only the following entries: "Chorus", "Verse", "Prechorus", "Postchorus", and "Climb")  
