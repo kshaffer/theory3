@@ -41,7 +41,7 @@ image: killersVoc.jpg
 
 
 
-***For Monday, September 21, 8am,*** transcribe [Song TBA]() by Death Cab for Cutie (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
+***For Monday, September 21, 8am,*** transcribe [Song TBA]() by TBA (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
