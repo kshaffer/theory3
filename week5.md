@@ -37,6 +37,8 @@ image: killersVoc.jpg
 
 ## Assignments
 
+**For Wednesday, September 23, beginning of class,** watch the strophic song analysis follow-up video. Compare the analyses in the video to the ones you submitted for Monday, and bring any questions you have have about them to class on Wednesday.
+
 **For Thursday, September 24, 8am,** make ***two*** conceptual videos. Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 5 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Submit the videos to the D2L theory site (under "Content" then "Week 5").
 
 

@@ -10,7 +10,7 @@ Create timeline analyses of the following two strophic songs:
 - "Can't Buy Me Love," by The Beatles  
 - "Change Your Mind," by The Killers
 
-These timelines are due on **Monday, September 28, at 8am.** The count for the Theory 3 grade, and they should be submitted to the Theory 3 D2L site (see below).
+These timelines are due on **Monday, September 28, at 8am.** The count for the Theory 3 grade, and they should be submitted to the Theory 3 D2L site (see below). *Collaboration is allowed*, as long as when you submit your timelines, you note the name(s) of your collaborator(s). Work groups should be no bigger than three people.
 
 ## Assignment details
 
