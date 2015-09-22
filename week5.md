@@ -44,15 +44,15 @@ image: killersVoc.jpg
 
 **For Thursday, September 24, 8am,** if you did not pass both of the conceptual videos you submitted for Week 4, you can reassess one or both of them in the reassessments dropbox in D2L.
 
-***For Monday, September 28, 8am,*** transcribe [Song TBA]() by TBA (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
+***For Monday, September 28, 8am,*** transcribe [this excerpt from "Set Fire to the Rain"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cdmRCbW55MFdMYzA/view?usp=sharing) by Adele (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
-- All vocal parts (lead and background)  
-- All instrumental parts (guitar, bass, etc.)  
-- Do *not* transcribe any full-chord guitar, synth, or piano parts. (The harmonic labels will account for that.)  
+- Vocal part  
+- All instrumental parts (piano, bass, etc.)  
 - Lead-sheet symbols above the melody.  
-- Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)
+- Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)  
+- *Be very careful about register and the corresponding clefs that you choose.*
 
 Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [Aural Skills 3 D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 6").
 
