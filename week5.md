@@ -19,6 +19,7 @@ image: killersVoc.jpg
 ***Due Monday, September 21, 8am:*** *Transcription No. 2*  
 ***Due Monday, September 21, 8am:*** *Strophic song analysis*
 ***Due Thursday, September 24, before class:*** *Week 5 conceptual videos*  
+***Due Thursday, September 24, before class:*** *Week 4 conceptual video reassessments (if necessary)*  
 
 ***Due Monday, September 28, 8am:*** *Reading quiz*  
 ***Due Monday, September 28, 8am:*** *Transcription No. 3*  
@@ -41,7 +42,7 @@ image: killersVoc.jpg
 
 **For Thursday, September 24, 8am,** make ***two*** conceptual videos. Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 5 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Submit the videos to the D2L theory site (under "Content" then "Week 5").
 
-
+**For Thursday, September 24, 8am,** if you did not pass both of the conceptual videos you submitted for Week 4, you can reassess one or both of them in the reassessments dropbox in D2L.
 
 ***For Monday, September 28, 8am,*** transcribe [Song TBA]() by TBA (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
