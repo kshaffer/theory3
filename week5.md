@@ -49,7 +49,7 @@ image: killersVoc.jpg
 - Proper key signature  
 - Proper time signature  
 - Vocal part  
-- All instrumental parts (piano, bass, etc.)  
+- All *pitched* instrumental parts (piano, bass, etc.; *no drums, percussion, etc.*)  
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)  
 - *Be very careful about register and the corresponding clefs that you choose.*
