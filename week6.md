@@ -16,7 +16,7 @@ image: imogen.jpg
 
 ***Due Monday, September 28, 8am:*** *Reading quiz*  
 ***Due Monday, September 28, 8am:*** *Transcription No. 3*  
-***Due Monday, September 28, 8am:*** *AABA song analysis*
+***Due Monday, September 28, 8am:*** *AABA song analysis*  
 ***Due Thursday, October 1, before class:*** *Week 5 conceptual video reassessments (if necessary)*  
 
 ***Due Monday, October 5, 8am:*** *Reading quiz*  
