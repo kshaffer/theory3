@@ -65,7 +65,7 @@ Finally, read the following and take the quiz in the Theory 3 D2L site (under "C
 
 If you did not pass both of the conceptual videos you submitted for Week 4, you can reassess one or both of them in the reassessments dropbox in D2L.
 
-### For Monday, September 28, 8am
+### For Monday, October 5, 8am
 
 #### Transcription 4
 
