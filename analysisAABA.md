@@ -27,7 +27,7 @@ On your timeline, delineate all phrases, modules, **and cycles** (this part is n
 - Correct cycle analysis.  
 - Correct analytical nomenclature (capital letters, lower-case letters, primes, numbers, etc.).
 
-Each song will receive up to two points for each of these five goals:
+Each song will receive up to two points for each of these six goals:
 
 - 2 points: general accuracy (for cycle analysis, is must be completely correct; for other parameters, a few small mistakes are okay).  
 - 1 point: a complete, honest attempt made, but more than a few small mistakes.  
