@@ -85,7 +85,7 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 
 #### Verse-chorus analysis
 
-[See full instructions here](/analysisVC/) (link coming soon) and submit to the Theory 3 D2L site by Monday, 8am.
+[See full instructions here](/analysisVC/) and submit to the Theory 3 D2L site by Monday, 8am.
 
 #### Reading quiz
 
