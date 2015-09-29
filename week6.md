@@ -69,7 +69,7 @@ If you did not pass both of the conceptual videos you submitted for Week 4, you 
 
 #### Transcription 4
 
-Transcribe this excerpt from "Uprising" by Muse (audio link coming soon; must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
+Transcribe [this excerpt from "Uprising"](https://drive.google.com/open?id=0B9o4hmKNoi6cMnJ0Y1M0ZUFLVlk) by Muse (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
@@ -79,13 +79,15 @@ Transcribe this excerpt from "Uprising" by Muse (audio link coming soon; must be
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)  
 - *Be very careful about register and the corresponding clefs that you choose.*
 
-Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [Aural Skills 3 D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 7").
+*Please make use of the [Rock Transcription](https://vimeo.com/140450050) demo video I made for you. In particular, in this excerpt the bass is somewhat difficult to hear. However, as I demonstrate in that video, you can find a recording of the entire song and listen to the bass in places where the guitar and voice are less busy (or simply absent) in order to find the pattern that the bassist is playing in this excerpt. Also please be very careful of the meter, in light of the things we've discussed in class this week.*
+
+Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [*Aural Skills 3* D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 7").
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
 
 #### Verse-chorus analysis
 
-[See full instructions here](/analysisVC/) and submit to the Theory 3 D2L site by Monday, 8am.
+[See full instructions here](/analysisVC/) and submit to the *Theory 3* D2L site by Monday, 8am.
 
 #### Reading quiz
 
