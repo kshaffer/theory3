@@ -151,6 +151,16 @@ I have made a [video demo](https://vimeo.com/119572881) of my classical transcri
 
 This semester will also contain a number of short transcription exercises, focusing solely on melodies and bass lines in both pop/rock and classical styles. Assessments will generally take place during the Monday/Wednesday classes and will count toward the Aural Skills 3 grade.
 
-Each fast transcription assignment will contain 2–3 melodies or bass lines, and each melody/bass line will be given a single score on the same 3-point scale as the slow transcriptions. The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
+Each fast transcription assignment will contain 2–3 melodies (or bass lines), and each melody (or bass line) will be given a single score on the following 5-point scale. 
+
+- 5 points: a performance-ready transcription (most professional musicians would not be able to tell that it contained mistakes).  
+- 4 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
+- 3 points: approaching performability, but more than three noticeable mistakes.  
+- 2 points: a (mostly) complete attempt, but not performable.  
+- 1 point: an incomplete attempt.  
+- 0 points: not attempted, or attempt reflects little-to-no substantive effort.
+
+
+The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
 
 
