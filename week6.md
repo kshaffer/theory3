@@ -89,6 +89,22 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 
 [See full instructions here](/analysisVC/) and submit to the *Theory 3* D2L site by Monday, 8am.
 
+#### Strohpic and AABA reassessment
+
+If you were not satisfied with your strophic and/or AABA analyses (or the grades you received on one or more of them), you may do the following reassessment assignment:
+
+Watch the videos I made explaining my analyses of these pieces (in Google Drive under "Handouts and Keys"). Compare my analyses to the analysis that you submitted, and look at the feedback you received in D2L. Identify one or more concepts (from the list of things that were each assigned grades on the 0–2 scale: phrase timings, phrase relationships, etc.) that you would like to reassess to bring your grade up to full credit in those areas.
+
+In a single video *of no more than three minutes in length*, show your analysis and explain either 1) why you're correct and the model analysis is incorrect, or 2) why the model analysis fits better than what you originally analyzed. (You can hold it up to the camera, do a "screencast" if you know how, or you can try to figure out how to include a screenshot in the video; low-tech is totally fine, as long as we can understand you.) 
+
+The goal is to demonstrate that you now understand concepts you were marked down for in the first attempt, so be sure to include specific musical or theoretical details. For example, don't say "what I labeled as a bridge is really just an instrumental strophe"; instead, say "this passage should be an instrumental strophe because the underlying harmony and phrase structure is identical to that of the previous strophes." Don't say "this last strophe should be A1 instead of A3"; say, "this last strophe should be A1 because the lyrics, melody, harmony, etc. are all identical to the first strophe."
+
+***You can make one three-minute video to cover all of your strophic and AABA analyses, not one per song.*** This will help ensure that you can explain these things concisely, while also ensuring that we're not overburdened with the extra grading. 
+
+Please take advantage of this opportunity, both to pull up your grade and to ensure that you have these concepts down before the higher-level work we'll be doing during Week 7 leading into the end-of-unit project.
+
+Submit your video to the dropbox in the Theory 3 D2L site.
+
 #### Reading quiz
 
-Details TBA.
+Cancelled. There is no reading/quiz for Monday.
