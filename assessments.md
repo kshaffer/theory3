@@ -157,7 +157,7 @@ Each fast transcription assignment will contain 2–3 melodies (or bass lines), 
 - 5 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
 - 4 points: approaching performability, but more than three noticeable mistakes.  
 - 3 points: a mostly complete attempt (more than half), but not accurate enough to be performable.  
-- 3 points: about half complete.  
+- 2 points: about half complete.  
 - 1 point: a mostly incomplete attempt.  
 - 0 points: not attempted, or attempt reflects little-to-no substantive effort.
 
