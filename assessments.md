@@ -160,6 +160,7 @@ Each fast transcription assignment will contain 2–3 melodies (or bass lines), 
 - 1 point: an incomplete attempt.  
 - 0 points: not attempted, or attempt reflects little-to-no substantive effort.
 
+The grade for the assignment will be the total score of all the melodies included on the assignment.
 
 The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
 
