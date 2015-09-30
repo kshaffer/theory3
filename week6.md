@@ -93,7 +93,7 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 
 If you were not satisfied with your strophic and/or AABA analyses (or the grades you received on one or more of them), you may do the following reassessment assignment:
 
-Watch the videos I made explaining my analyses of these pieces (in Google Drive under "Handouts and Keys"). Compare my analyses to the analysis that you submitted, and look at the feedback you received in D2L. Identify one or more concepts (from the list of things that were each assigned grades on the 0–2 scale: phrase timings, phrase relationships, etc.) that you would like to reassess to bring your grade up to full credit in those areas.
+Watch the videos I made explaining my analyses of these pieces (in Google Drive under ["Handouts and Keys"](https://drive.google.com/open?id=0B9o4hmKNoi6cfjkweVA5NkNfdzZ4RXNMNTFybG43SlRPdVVmZThkU0VFZlFVNHpaai1Lak0)). Compare my analyses to the analysis that you submitted, and look at the feedback you received in D2L. Identify one or more concepts (from the list of things that were each assigned grades on the 0–2 scale: phrase timings, phrase relationships, etc.) that you would like to reassess to bring your grade up to full credit in those areas.
 
 In a single video *of no more than three minutes in length*, show your analysis and explain either 1) why you're correct and the model analysis is incorrect, or 2) why the model analysis fits better than what you originally analyzed. (You can hold it up to the camera, do a "screencast" if you know how, or you can try to figure out how to include a screenshot in the video; low-tech is totally fine, as long as we can understand you.) 
 
