@@ -153,11 +153,12 @@ This semester will also contain a number of short transcription exercises, focus
 
 Each fast transcription assignment will contain 2–3 melodies (or bass lines), and each melody (or bass line) will be given a single score on the following 5-point scale. 
 
-- 5 points: a performance-ready transcription (most professional musicians would not be able to tell that it contained mistakes).  
-- 4 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
-- 3 points: approaching performability, but more than three noticeable mistakes.  
-- 2 points: a (mostly) complete attempt, but not performable.  
-- 1 point: an incomplete attempt.  
+- 6 points: a performance-ready transcription (most professional musicians would not be able to tell that it contained mistakes).  
+- 5 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
+- 4 points: approaching performability, but more than three noticeable mistakes.  
+- 3 points: a mostly complete attempt (more than half), but not accurate enough to be performable.  
+- 3 points: about half complete.  
+- 1 point: a mostly incomplete attempt.  
 - 0 points: not attempted, or attempt reflects little-to-no substantive effort.
 
 The grade for the assignment will be the total score of all the melodies included on the assignment.
