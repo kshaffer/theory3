@@ -1,6 +1,6 @@
 ---
 layout: default
-image: imogenSmall.jpg
+image: turntableSmall.jpg
 category: Services
 title: Week 7 – October 5–8
 description: |
