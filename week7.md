@@ -76,12 +76,13 @@ Cancelled. There is no reading/quiz for Monday.
 
 #### Transcription 5
 
-Transcribe ***song TBA*** (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
+Transcribe [this excerpt from "September"](https://drive.google.com/open?id=0B9o4hmKNoi6cVmtmaWN1TnBNa0E) by The Shins (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription:
 
 - Proper key signature  
 - Proper time signature  
-- Vocal part  
-- All *pitched* instrumental parts (guitar, bass, etc.; *no drums, percussion, etc.*)  
+- Lead vocal part  
+- Background vocal part  
+- All *pitched* instrumental parts (in this case, only the bass)  
 - Lead-sheet symbols above the melody.  
 - Roman numerals below the bass. (Be sure to reflect any modal mixture or applied chords appropriately.)  
 - *Be very careful about register and the corresponding clefs that you choose.*
