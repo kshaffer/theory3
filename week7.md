@@ -94,7 +94,7 @@ For grading information on this assignment, see the [Assessments Guide](/assessm
 
 #### Pop/rock analysis project
 
-Details forthcoming.
+[Details can be found here.](/popRockProject/)
 
 #### Reading quiz
 
