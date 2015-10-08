@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 7 – Pop/rock form – synthesis and application
+title: Week 8 – Introduction to classical form
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
 image: turntable.jpg
 ---
@@ -19,8 +19,7 @@ image: turntable.jpg
 
 ***Due Monday, October 12, 8am:*** *Reading quiz*  
 ***Due Monday, October 12, 8am:*** *Transcription No. 5 (if necessary)*  
-***Due Monday, October 12, 8am:*** *Verse-chorus reassessment (if necessary)*  
-***Due Monday, October 12, 8am:*** *Pop/rock analysis project **postponed***
+***Due Monday, October 12, 8am:*** *Pop/rock analysis project*
 
 
 ## Core concepts
@@ -94,23 +93,7 @@ Notate the transcription in notation software (such as MuseScore, NoteFlight, Fi
 
 For grading information on this assignment, see the [Assessments Guide](/assessments/).
 
-#### Verse-chorus reassessment
-
-If you were not satisfied with your verse-chorus analyses (or the grades you received on one or more of them), you may do the following reassessment assignment:
-
-Watch the video I made explaining my analyses of these pieces (in Google Drive under ["Handouts and Keys"](https://drive.google.com/open?id=0B9o4hmKNoi6cfjkweVA5NkNfdzZ4RXNMNTFybG43SlRPdVVmZThkU0VFZlFVNHpaai1Lak0)). Compare my analyses to the analysis that you submitted, and look at the feedback you received in D2L. Identify one or more concepts (from the list of things that were each assigned grades on the 0–2 scale: phrase timings, phrase relationships, etc.) that you would like to reassess to bring your grade up to full credit in those areas.
-
-In a single video *of no more than **two** minutes in length*, show your analysis and explain either 1) why you're correct and the model analysis is incorrect, or 2) why the model analysis fits better than what you originally analyzed. (You can hold it up to the camera, do a "screencast" if you know how, or you can try to figure out how to include a screenshot in the video; low-tech is totally fine, as long as we can understand you.) 
-
-The goal is to demonstrate that you now understand concepts you were marked down for in the first attempt, so be sure to include specific musical or theoretical details. For example, don't say "what I labeled as a bridge is really just an instrumental strophe"; instead, say "this passage should be an instrumental strophe because the underlying harmony and phrase structure is identical to that of the previous strophes." Don't say "this last strophe should be A1 instead of A3"; say, "this last strophe should be A1 because the lyrics, melody, harmony, etc. are all identical to the first strophe."
-
-***You can make one two-minute video to cover both of your verse-chorus analyses, not one per song.*** 
-
-Submit your video to the dropbox in the Theory 3 D2L site.
-
 #### Pop/rock analysis project
-
-POSTPONED. This will now be due on Monday, October 19.
 
 [Details can be found here.](/popRockProject/)
 
