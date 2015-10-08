@@ -12,13 +12,15 @@ Choose one of the following four songs to analyze:
 - The Shins, "Simple Song"  
 - The Distillers, "I Am A Revenant"
 
-(You may also choose a song yourself, but *only if it is approved by Kris by Thursday*.)
+(You may also choose a song yourself, but *only if it is approved by Kris by Wednesday, October 14*.)
 
 The goal for this project is to be able to take a song of moderate formal complexity, come to an interpretation of the complex elements, and communicate that interpretation clearly with specific musical details to support it. Thus, all of the songs listed above have elements in their large-scale form that make it difficult to categorize a strophic, AABA, or verse-chorus, or have ambiguous elements that could be interpreted in more than one way. If you want to analyze a different song, make sure that it also has those features.
 
 **Project overview:** Create a timeline of the form of your song, and write a short (300–1000 words) explanation of the reasoning behind your interpretation of the difficult or ambiguous elements of the song's form.
 
 ***There is no collaboration for this assignment.***
+
+***Project is due at 8am on Monday, October 19.***
 
 ## Assignment details
 
