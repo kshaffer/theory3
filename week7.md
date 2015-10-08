@@ -116,4 +116,7 @@ POSTPONED. This will now be due on Monday, October 19.
 
 #### Reading quiz
 
-Details forthcoming.
+Read the following and then take the reading quiz in the D2L Music Theory site (under Content >> Week 8):
+
+- [The sentence](http://openmusictheory.com/sentence.html)  
+- [The period](http://openmusictheory.com/period.html)  
