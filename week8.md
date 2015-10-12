@@ -19,7 +19,7 @@ image: clones.jpg
 
 ***Due Wednesday, October 14, 8am:*** *Reading quiz*  
 
-***Due Monday, October 19, 8am:*** *Pop/rock analysis project*
+***Due Monday, October 19, 8am:*** *Pop/rock analysis project*  
 ***Due Monday, October 19, 8am:*** *Reading quiz*  
 
 
