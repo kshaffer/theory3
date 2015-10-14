@@ -92,4 +92,8 @@ Read the following and then take the reading quiz on the Theory 3 D2L site (Cont
 
 #### Reading quiz
 
-Details forthcoming.
+Read the following, and then take the Oct 19 reading quiz in the Theory 3 D2L site (under Content >> Week 9):
+
+- [Galant schemata – opens and closes](http://openmusictheory.com/schemataOpensAndCloses)  
+- [Galant schemata – summary](http://openmusictheory.com/schemataSummary.html)  
+- [Improvising a sentence with galant schemata](http://openmusictheory.com/schemata-improv.html)  
