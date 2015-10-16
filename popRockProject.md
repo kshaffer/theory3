@@ -65,6 +65,6 @@ I wrote an approximately [1000-word blog post (with timeline) as an example.](ht
 
 **Submit the written portion of your project as a PDF file** (so we don't have to worry about compatibility with word processors like Microsoft Word or Apple's Pages).
 
-**For both digital and paper timelines:** Upload all of your timeline files (do *not* upload the audio) to the D2L Dropbox for this assignment. Go to [our Theory 3 D2L site](https://learn.colorado.edu/d2l/home/120565), then "Content," then "Week 8," then "Pop/rock analysis project". There you will be able to upload the files.
+**For both digital and paper timelines:** Upload all of your timeline files (do *not* upload the audio) to the D2L Dropbox for this assignment. Go to [our Theory 3 D2L site](https://learn.colorado.edu/d2l/home/120565), then "Content," then "Week 9," then "Pop/rock analysis project". There you will be able to upload the files.
 
 Have fun!
