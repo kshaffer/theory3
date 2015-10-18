@@ -61,10 +61,9 @@ I have done my best to keep the assessment simple, especially since there will n
 
 Following are assessment types that comprise the final Theory 3 grade:
 
-- **Online quizzes (open-note)** - 20% of the final Theory 3 grade.  
+- **Online quizzes (open-note)** - 25% of the final Theory 3 grade.  
 - **Conceptual videos** - 30% of the final Theory 3 grade.  
-- **Conceptual connections** - 10% of the final Theory 3 grade.  
-- **Application assignments** - 25% of the final Theory 3 grade.  
+- **Application assignments** - 30% of the final Theory 3 grade.  
 - **Synthesis projects** - 15% of the final Theory 3 grade.
 
 Following are assessment types that comprise the final Aural Skills 3 grade:

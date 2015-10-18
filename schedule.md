@@ -5,36 +5,53 @@ subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, 
 image: watch.jpg
 ---
 
-*This is a schedule of the larger assessments during the course. It does not include the online reading quizzes that are due at the beginning of most class meetings, nor does it include the weekly conceptual video assignments that are due most Thursday mornings.*
+*This is a schedule of the larger assessments during Unit II of the course. It does not include the online reading quizzes that are due at the beginning of most class meetings.*
 
 *The dates in this schedule are subject to change, but we will give sufficient advanced notice for any changes other than delays.*
 
-## Week 3 (September 7–10)
+## Week 9
 
-**Due Tuesday:** Video performance portfolio (first half)
+Monday: Pop/rock analysis project (theory)  
+Thursday: Two conceptual videos (theory)  
 
-## Week 4 (September 14–17)
+## Week 10
 
-**Due Monday:** Transcription 1, video performance portfolio (second half)  
-**Thursday (in place of section):** Sight-reading exam 1
+Monday: "Comprovisation" video 1 (aural skills)  
+Thursday: Two conceptual videos (theory)  
 
-## Week 5 (September 21–24)
+## Week 11
 
-**Due Monday:** Transcription 2, strophic-form analysis assignment, video performance portfolio reassessments (if nec.)  
-**Wednesday (in class):** Fast transcription (dictation) assessment 1
+Monday: "Comprovisation" video 2 (aural skills)  
+Monday: Transcription/analysis 1 (theory & aural skills)  
+Thursday: Two conceptual videos (theory)  
+Thursday: Improvisation exam 1 (aural skills)  
 
-## Week 6 (September 28–October 1)
+## Week 12
 
-**Due Monday:** Transcription 3, AABA-form analysis assignment  
-**Wednesday (in class):** Fast transcription (dictation) assessment 2
+Monday: Transcription/analysis 2 (theory & aural skills)  
+Wednesday: Fast transcription 1 (aural skills)  
+Thursday: Two conceptual videos (theory)  
 
-## Week 7 (October 5–8)
+## Week 13
 
-**Due Monday:** Transcription 4, Verse-Chorus-form analysis assignment  
-**Wednesday (in class):** Fast transcription (dictation) assessment 3  
-**Thursday (in place of section):** Sight-reading exam 2
+Monday: Transcription/analysis 3 (theory & aural skills)  
+Wednesday: Fast transcription 2 (aural skills)  
+Thursday: Improvisation exam 2 (aural skills)  
 
-## Week 8 (October 12–15)
+## Week 14
 
-**Due Monday:** Transcription 5, Unit I project  
-**Monday (in class):** Fast transcription (dictation) assessment 4  
+Monday: Transcription/analysis 4 (theory & aural skills)  
+Monday: Sonata analysis 1 – Two-part & continuous expositions (theory)  
+Wednesday: Fast transcription 3 (aural skills)  
+
+## Week 15
+
+Monday: Transcription/analysis 5 (theory & aural skills)  
+Monday: Sonata analysis 2 – Tri-modular block (two-MC) expositions (theory)  
+Monday: Sonata analysis 1 reassessments (theory)  
+Wednesday: Fast transcription 4 (aural skills)  
+
+## Finals week
+
+Monday: Sonata analysis 2 reassessments (theory)  
+Date TBD: Sonata analysis project (theory)

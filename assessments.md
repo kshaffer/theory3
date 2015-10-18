@@ -19,10 +19,9 @@ I have done my best to keep the assessment simple, especially since there will n
 
 Following are assessment types that comprise the final Theory 3 grade:
 
-- **Online quizzes (open-note)** - 20% of the final Theory 3 grade.  
+- **Online quizzes (open-note)** - 25% of the final Theory 3 grade.  
 - **Conceptual videos** - 30% of the final Theory 3 grade.  
-- **Conceptual connections** - 10% of the final Theory 3 grade.  
-- **Application assignments** - 25% of the final Theory 3 grade.  
+- **Application assignments** - 30% of the final Theory 3 grade.  
 - **Synthesis projects** - 15% of the final Theory 3 grade.
 
 Following are assessment types that comprise the final Aural Skills 3 grade:
@@ -65,16 +64,6 @@ For each concept, one student video will be shared publicly (with that student's
 - [Nuance](https://vimeo.com/131795860)  
 
 
-## Conceptual mapping
-
-Each week (beginning with Week 3), you will submit three explanations of conceptual relationships. These will be uploaded to the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other instructions are provided), and will count toward the Theory 3 grade. They will be graded pass/non-pass, and there will be no reassessment opportunities. However, you will be allowed to collaborate with one or two other people (be sure to include the name(s) of your collaborator(s) in the text of your submission).
-
-We will collaboratively create a visual diagram that maps out our core concepts and their relationships. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one and three sentences per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each week you will submit explanations for relationships between concepts from the previous weeks' study. All correct explanations will receive credit, and the best explanation for each relationship will be posted to the collaborative concept map anonymously.
-
-Here is an example collaborative concept map from my online Music Cognition course:
-
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="680" height="400" src="https://prezi.com/embed/ntsoqg1f9m7i/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;PARENT_REQUEST_ID=930b5d69ca638a42#"></iframe><br/>Or [view the concept map directly on Prezi](https://prezi.com/ntsoqg1f9m7i/music-cognition/).
-
 ## Application assignments (theory)
 
 Most weeks will involve small-scale assignments in which you will cultivate and/or demonstrate your skills in applying the concepts of the week (and possibly those covered in previous weeks) in a musical task. These will generally be due by 8am on Mondays, and will count toward the Theory 3 grade. Submit via the dropbox on the Theory 3 D2L site, unless given different instructions.
@@ -101,13 +90,12 @@ Details about specific pieces, collaboration options, etc. will be provided as p
 
 ## Live performance (from sight or improvized)
 
-This course contains the following three live-performance objectives:
+This course contains the following two live-performance objectives:
 
 - Sight-read a melody of moderate complexity in a contemporary pop/rock style, at an instrument or voice of choice.  
-- Sight-read a melody that follows the formal conventions of classical/*galant* themes, sung with solfege.  
 - Improvize a melody that follows the formal conventions of classical/*galant* themes, at an instrument or voice of choice.
 
-These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to a 3-point rubric (see below), and will count towards the Aural Skills 3 grade. Two exam slots will be reserved for the pop/rock objective, and three exam slots will be reserved for the two classical/*galant* objectives. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
+These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to the rubrics below, and will count towards the Aural Skills 3 grade. Two exam slots will be reserved for the pop/rock objective, and two exam slots will be reserved for the two classical/*galant* objective. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
 
 Grades for each sight-reading exam will be assigned as follows:
 
@@ -118,10 +106,11 @@ Grades for each sight-reading exam will be assigned as follows:
 
 Grades for each improvisation exam will be assigned as follows:
 
-- 3 points: a stylistically appropriate performance with 3 or more notes in most stages of the schemas and several diatonic and chromatic embellishing tones, on the first or second attempt.  
-- 2 points: a stylistically appropriate performance with 1 or 2 notes in most stages and/or minimal use of embellishing tones, on the first or second attempt.  
-- 1 point: an accurate performance of the skeleton notes of the schemata, but little-to-no embellishment, on the first or second attempt.  
-- 0 points: no attempt, or inaccuracies on the skeleton notes of the schemas.
+- D (64% if generally correct, 69% if flawless): Improvise a classical-style melody with 1–2 chord tones per chord/stage  
+- C (74% or 79%): Improvise a classical-style melody with 3 or more chord tones per chord/stage  
+- B (84% or 89%): Improvise a classical-style melody with multiple properly treated diatonic non-chord tones  
+- A (94% or 100%): Improvise a classical-style melody with multiple properly treated chromatic non-chord tones  
+
 
 
 ## Slow transcription
