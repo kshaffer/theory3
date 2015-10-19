@@ -1,8 +1,8 @@
 ---
 layout: default
-image: keystackSmall.jpg
+image: kystackSmall.jpg
 category: Services
-title: "Week 9 – October 19–22"
+title: Week 9 – October 19–22
 description: |
-  <p class="lead"><b>Classical improvisation.</b><br/><br/>How do we create stylistically appropriate classical forms on the fly?<br/><br/><a href="/week9/">Read more...</a></p>
+  <p class="lead"><b>Classical improvisation.</b><br/><br/><br/><br/><a href="/week9/">Read more...</a></p>
 ---
