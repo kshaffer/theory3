@@ -2,7 +2,7 @@
 layout: page
 title: Week 9 – Classical improvisation
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
-image: clones.jpg
+image: keystack.jpg
 ---
 
 ## Schedule
