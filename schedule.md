@@ -16,18 +16,18 @@ Thursday: Two conceptual videos (theory)
 
 ## Week 10
 
+Monday: "Comprovisation" video 1 (aural skills)  
 Thursday: Two conceptual videos (theory)  
 
 ## Week 11
 
-Monday: "Comprovisation" video 1 (aural skills)  
+Monday: "Comprovisation" video 2 (aural skills)  
 Monday: Transcription/analysis 1 (theory & aural skills)  
 Thursday: Two conceptual videos (theory)  
 Thursday: Improvisation exam 1 (aural skills)  
 
 ## Week 12
 
-Monday: "Comprovisation" video 1 (aural skills)  
 Monday: Transcription/analysis 2 (theory & aural skills)  
 Wednesday: Fast transcription 1 (aural skills)  
 Thursday: Two conceptual videos (theory)  
