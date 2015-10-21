@@ -58,7 +58,7 @@ Read the following, and then take the Oct 19 reading quiz in the Theory 3 D2L si
 
 Make ***two*** conceptual videos. Each video should be no more than 90 seconds long, and should explain one of the core concepts from Week 9 (listed above). See the [Assessment Guide](/assessments/) for details about creating these videos, including examples, before you begin. Remember to include a musical example that was *not covered in class or in the assigned readings.* Submit the videos to the D2L theory site (under "Content" then "Week 9").
 
-Also, take a stab at composing a single presentation phrase that matches the formal characteristics we've explored (tonic prolongation, two melodically related basic ideas) and fits one of the [presentation schemata](http://openmusictheory.com/schemataOpensAndCloses) we've engaged this week. This is not for a grade, but we will be doing an in-class exercise based on them, so please put some thought into them.
+Also, take a stab at composing a single presentation phrase that matches the formal characteristics we've explored (tonic prolongation, two melodically related basic ideas) and fits one of the [presentation schemata](http://openmusictheory.com/schemataOpensAndCloses) we've engaged this week. This is not for a grade, but we will be doing an in-class exercise based on them, so please put some thought into them. Upload them (either a PDF/image from your notation software, or a picture of a hand-written score) to the Aural Skills 3 D2L site (Content >> Week 9).
 
 Finally, ***please bring your instruments to sections.***
 
