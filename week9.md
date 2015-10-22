@@ -69,7 +69,7 @@ Finally, ***please bring your instruments to sections.***
 Read the following, and then take the Oct 26 reading quiz in the Theory 3 D2L site (under Content >> Week 10):
 
 - [Performing a harmonic analysis](http://openmusictheory.com/harmonicAnalysis.html)  
-- [Modulation](hhttp://openmusictheory.com/Modulation.html)  
+- [Modulation](http://openmusictheory.com/Modulation.html)  
 
 #### "Comprovisation" video
 
