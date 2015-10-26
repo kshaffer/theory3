@@ -79,7 +79,7 @@ Read the following, and then take the Oct 28 reading quiz in the Theory 3 D2L si
 - [Hybrid themes](http://openmusictheory.com/hybridThemes.html)  
 - [Compound period](http://openmusictheory.com/compoundPeriod.html)  
 
-***The quiz is not yet on D2L, but will be soon. Please check back later on Monday, Oct. 26.***
+***The quiz is cancelled, since I did not have time to put it together and give you sufficient time to do it. However, please read the above two pages carefully. We will engage those concepts in Wednesday's class, and they may show up on the transcription/analysis assignment over the weekend.***
 
 
 ### For Thursday, October 29, 8am
