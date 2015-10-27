@@ -120,7 +120,7 @@ Submit your “comprovisation” on the Aural Skills 3 D2L site (Content >> Week
 
 #### Transcription/analysis No. 1
 
-Transcribe and analyze [this excerpt from a classical keyboard piece]https://drive.google.com/open?id=0B9o4hmKNoi6cdmVjVjdDQ2t3djA) (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
+Transcribe and analyze [this excerpt from a classical keyboard piece](https://drive.google.com/open?id=0B9o4hmKNoi6cdmVjVjdDQ2t3djA) (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
 
 - **Score:** A piano staff (treble and bass) with proper key signature, time signature, and accurate notes and rhythms (you can omit trills, mordents, turns, grace notes, and the like)   
 - **Harmony:** Roman numerals and figured bass below the staff.  
