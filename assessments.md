@@ -117,7 +117,7 @@ Grades for each improvisation exam will be assigned as follows:
 
 This semester will contain a number of short, full-textured transcriptions, in both pop/rock and classical (typically keyboard or string-quartet) styles. Slow transcriptions will be submitted via the dropbox on the Aural Skills 3 D2L page and will count toward the Aural Skills 3 grade.
 
-Each transcription will be evaluated for accuracy of four musical features:
+Each pop/rock transcription will be evaluated for accuracy of four musical features:
 
 - melody (pitch, rhythm, and register)  
 - bass line (pitch, rhythm, and register)  
@@ -131,7 +131,7 @@ Each of these features will be given a score on the following 3-point scale (tot
 - 1 point: more than three noticeable mistakes.  
 - 0 points: not attempted, or attempt reflects little-to-no substantive effort.
 
-The best three pop/rock transcriptions and the best three classical transcriptions will count towards the final grade.
+The best two pop/rock transcriptions and the best two classical transcriptions will count towards the final grade.
 
 I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process.
 
