@@ -95,7 +95,7 @@ Finally, ***please bring your instruments to sections.***
 
 Read the following, and then take the Nov 2 reading quiz in the Theory 3 D2L site (under Content >> Week 11):
 
-- Readings TBA
+- [Chromatically altered subdominant chords](http://openmusictheory.com/alteredSubdominants.html) (Please note that we will not be making use of the *functional bass* notation referenced in this reading, only Roman numerals and general functions. All of the chords in this resource are S — or PD — function.)
 
 
 #### "Comprovisation" video
