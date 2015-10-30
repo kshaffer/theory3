@@ -7,10 +7,10 @@ image: brokenKeys.jpg
 
 ## Schedule
 
-**Monday, October 26:** Chromatically altered subdominant chords – analysis  
-**Tuesday, October 27:** Improvisation workshop: exam prep  
-**Wednesday, October 28:** Improvisation practice & fast transcription practice  
-**Thursday, October 29:** Classical improvisation exam 1
+**Monday, November 2:** Chromatically altered subdominant chords – analysis  
+**Tuesday, November 3:** Improvisation workshop: exam prep  
+**Wednesday, November 4:** Improvisation practice & fast transcription practice  
+**Thursday, November 5:** Classical improvisation exam 1
 
 ## Due dates
 
