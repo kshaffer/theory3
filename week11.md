@@ -18,10 +18,10 @@ image: brokenKeys.jpg
 ***Due Monday, November 2, 8am:*** *"Comprovisation" 2*  
 ***Due Monday, November 2, 8am:*** *Transcription/Analysis 1*  
 ***Thursday, November 5, 8am:*** *Classical improvisation exam 1*  
+***Due Thursday, November 5, 8am:*** *Conceptual video reassessments*  
 
 ***Due Monday, November 9, 8am:*** *Reading quiz*  
 ***Due Monday, November 9, 8am:*** *Transcription/Analysis 2*  
-***Due Monday, November 9, 8am:*** *Conceptual video reassessments*  
 
 
 ## Core concepts
@@ -106,7 +106,7 @@ If you were not satisfied with your grade or your performance on any of your Uni
 
 #### Reading quiz
 
-Read the following, and then take the Nov 2 reading quiz in the Theory 3 D2L site (under Content >> Week 12):
+Read the following, and then take the Nov 9 reading quiz in the Theory 3 D2L site (under Content >> Week 12):
 
 - Reading TBA
 
