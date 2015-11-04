@@ -73,7 +73,8 @@ Along with your score, submit a timeline analysis that includes the following (t
 - Subphrases (bi, ci)  
 - Phrases (ant, cons, pres, cont, cbi)  
 - Theme type (two layers if a compound theme, as noted in *Open Music Theory*)  
-- Though not required, it may be helpful to reproduce the cadences on the timeline.
+
+(Though not required, it may be helpful to reproduce the cadences on the timeline.)
 
 I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process (string quartets, but still mostly applicable).
 
