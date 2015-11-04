@@ -20,8 +20,8 @@ image: brokenKeys.jpg
 ***Thursday, November 5, 8am:*** *Classical improvisation exam 1*  
 ***Due Thursday, November 5, 8am:*** *Conceptual video reassessments*  
 
-***Due Monday, November 9, 8am:*** *Reading quiz*  
 ***Due Monday, November 9, 8am:*** *Transcription/Analysis 2*  
+***Due Monday, November 9, 8am:*** *"Comprovisation" reassessments (if necessary)*  
 
 
 ## Core concepts
@@ -104,20 +104,13 @@ If you were not satisfied with your grade or your performance on any of your Uni
 
 ### For Monday, November 9, 8am
 
-#### Reading quiz
-
-Read the following, and then take the Nov 9 reading quiz in the Theory 3 D2L site (under Content >> Week 12):
-
-- Reading TBA
-
-
 #### "Comprovisation" video reassessments
 
 If you were not satisfied with your grade or your performance on either or both of the comprovisation assignments, you may redo and resubmit them. Please follow the same instructions as the original assignments and take the feedback you received into account. (Please note that you can only *re*assess if you submitted an assessment to begin with.) Submit your reassessments to the Comprovisation Reassessments dropbox on the Theory 3 D2L site (Content >> Week 12).
 
 #### Transcription/analysis No. 2
 
-Transcribe and analyze [***excerpt and link forthcoming***]() (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
+Transcribe and analyze [this excerpt of a classical keyboard piece](https://drive.google.com/open?id=0B9o4hmKNoi6cdlZPNTFRYnBZd1k) (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
 
 - **Score:** A piano staff (treble and bass) with proper key signature, time signature, and accurate notes and rhythms (you can omit trills, mordents, turns, grace notes, and the like)   
 - **Harmony:** Roman numerals and figured bass below the staff.  
