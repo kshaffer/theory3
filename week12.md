@@ -2,7 +2,7 @@
 layout: page
 title: Week 12 – Introduction to sonata theory
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
-image: brokenKeys.jpg
+image: piano.jpg
 ---
 
 ## Due dates
