@@ -75,7 +75,7 @@ Notate the transcription in notation software (such as MuseScore, NoteFlight, Fi
 Each of the bullet points listed above will be assessed on a three-point scale (same as pop/rock transcriptions). The "aural" and "theory" parts of the assignment each have three categories, total of 9 points each.
 
 
-### For Tuesday, November 18, 8am
+### For Wednesday, November 18, 8am
 
 #### Reading quiz
 
