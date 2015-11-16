@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 12 – The two part exposition and recapitulation
+title: Week 13 – The two part exposition and recapitulation
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
 image: piano.jpg
 ---
