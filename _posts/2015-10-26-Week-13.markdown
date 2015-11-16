@@ -1,6 +1,6 @@
 ---
 layout: default
-image: pianoSmall.jpg
+image: keysSmall.jpg
 category: Services
 title: Week 13 – November 16–19
 description: |
