@@ -97,7 +97,22 @@ Details TBA.
 
 #### Sonata analysis no. 1
 
-Details TBA.
+Analyze the sonata structure of the following movements ([audio here](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cVzUzUEhfUlFxVzA&usp=sharing) — must be logged into CU Google account to access):
+
+- Beethoven, Piano Sonata in G Minor, Op. 49/1, i.  
+- Beethoven, Piano Sonata in G Major, Op. 49/2, i.  
+
+After listening and studying these movements, make a timeline for each (using Variations Audio Timeline or [paper](http://courses.shaffermusic.com/materials/timeline-blank.pdf)). On the timelines, be sure to label the following:
+
+- Structural points of arrival (medial caesura, essential expositional closure, essential sonata closure, crux)  
+- Theme-level modules (primary, transition, secondary, closing) — ***in both the exposition and the recapitulation***  
+- Movement-level modules (exposition, development, recapitulation)  
+
+See the model analyses I provided to you (in our shared folder on Google Drive under ["Sonata Timelines"](https://drive.google.com/open?id=0B9o4hmKNoi6cTEcxQ0p4YklyZFU)) — both paper and Variations Audio Timeliner — for examples of what yours should look like. Be sure to include all 15 elements listed above for each piece. Your grade will be simply the percentage of those 30 things accurately labeled on your timelines.
+
+You may use any written/video/audio resources I have provided, but do not consult other people while working on this assessment. (You are, as always, encouraged to review materials not related to this piece with your colleages as you prep for this analysis.)
+
+**Upload your finished timelines (either the .v2t files or PDF/image files of the paper timelines) to the Theory 3 D2L dropbox (under Content >> Week 14).** If you do your timelines in Variations Audio Timeliner, there is no need to upload the audio files, just the .v2t files.
 
 #### Transcription/analysis no. 4
 
