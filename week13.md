@@ -70,7 +70,7 @@ Along with your score, submit a timeline analysis that includes the following (t
 
 I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process (string quartets, but still mostly applicable).
 
-Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [*Aural Skills 3* D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 12").
+Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [*Aural Skills 3* D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 13").
 
 Each of the bullet points listed above will be assessed on a three-point scale (same as pop/rock transcriptions). The "aural" and "theory" parts of the assignment each have three categories, total of 9 points each.
 
@@ -116,7 +116,7 @@ You may use any written/video/audio resources I have provided, but do not consul
 
 #### Transcription/analysis no. 4
 
-Transcribe and analyze [EXCERPT TBA]() (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
+Transcribe and analyze [this classical keyboard passage](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cS194Mmo0NzhPeWM/view?usp=sharing) (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
 
 - **Score:** A piano staff (treble and bass) with proper key signature, time signature, and accurate notes and rhythms (you can omit trills, mordents, turns, grace notes, and the like)   
 - **Harmony:** Roman numerals and figured bass below the staff.  
@@ -131,6 +131,6 @@ Along with your score, submit a timeline analysis that includes the following (t
 
 I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process (string quartets, but still mostly applicable).
 
-Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [*Aural Skills 3* D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 12").
+Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [*Aural Skills 3* D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 14").
 
 Each of the bullet points listed above will be assessed on a three-point scale (same as pop/rock transcriptions). The "aural" and "theory" parts of the assignment each have three categories, total of 9 points each.
