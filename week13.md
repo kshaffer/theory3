@@ -21,7 +21,7 @@ image: keys.jpg
 ***Due Thursday, November 19, 8am:*** *Conceptual videos*  
 
 ***Due Monday, November 30, 8am:*** *Transcription/Analysis 4*  
-***Due Monday, November 30, 8am:*** *Reading quiz*  
+***Due Monday, November 30, 8am:*** *Reading (no quiz)*  
 ***Due Monday, November 30, 8am:*** *Sonata analysis 1*  
 
 
@@ -91,9 +91,13 @@ Make ***two*** conceptual videos. Each video should be no more than 90 seconds l
 
 ### For Monday, November 30, 8am
 
-#### Reading quiz
+#### Reading
 
-Details TBA.
+Please read the following:
+
+- [Sonata Theory – exposition types](http://openmusictheory.com/SonataTheory-exposition.html) ("Multiple MCs" and "The continuous exposition")
+
+There will be no quiz for this reading, but we will need these concepts for the work we'll be doing in class on Monday.
 
 #### Sonata analysis no. 1
 
