@@ -22,7 +22,6 @@ image: keys.jpg
 
 ***Due Monday, November 30, 8am:*** *Transcription/Analysis 4*  
 ***Due Monday, November 30, 8am:*** *Reading (no quiz)*  
-***Due Monday, November 30, 8am:*** *Sonata analysis 1*  
 
 
 ## Core concepts
@@ -101,6 +100,9 @@ There will be no quiz for this reading, but we will need these concepts for the 
 
 #### Sonata analysis no. 1
 
+POSTPONED UNTIL WEEK 14
+
+<!--
 Analyze the sonata structure of the following movements ([audio here](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cVzUzUEhfUlFxVzA&usp=sharing) — must be logged into CU Google account to access):
 
 - Beethoven, Piano Sonata in G Minor, Op. 49/1, i.  
@@ -117,6 +119,7 @@ See the model analyses I provided to you (in our shared folder on Google Drive u
 You may use any written/video/audio resources I have provided, but do not consult other people while working on this assessment. (You are, as always, encouraged to review materials not related to this piece with your colleages as you prep for this analysis.)
 
 **Upload your finished timelines (either the .v2t files or PDF/image files of the paper timelines) to the Theory 3 D2L dropbox (under Content >> Week 14).** If you do your timelines in Variations Audio Timeliner, there is no need to upload the audio files, just the .v2t files.
+-->
 
 #### Transcription/analysis no. 4
 
