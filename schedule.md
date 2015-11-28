@@ -41,17 +41,17 @@ Thursday: Improvisation exam 2 (aural skills)
 ## Week 14
 
 Monday: Transcription/analysis 4 (theory & aural skills)  
-Monday: Sonata analysis 1 – Two-part & continuous expositions (theory)  
-Wednesday: Fast transcription 3 (aural skills)  
+Thursday: Sonata analysis 1 – Two-part & continuous expositions (theory)  
 
 ## Week 15
 
 Monday: Transcription/analysis 5 (theory & aural skills)  
-Monday: Sonata analysis 2 – Tri-modular block (two-MC) expositions (theory)  
-Monday: Sonata analysis 1 reassessments (theory)  
-Wednesday: Fast transcription 4 (aural skills)  
+Tuesday: Fast transcription 3 (aural skills)  
+Thursday: Sonata analysis 2 – Tri-modular block (two-MC) expositions (theory)  
+Thursday: Sonata analysis 1 reassessments (theory)  
+Thursday: Fast transcription 4 (aural skills)  
 
 ## Finals week
 
-Monday: Sonata analysis 2 reassessments (theory)  
+Date TBA: Sonata analysis 2 reassessments (theory)  
 Date TBD: Sonata analysis project (theory)
