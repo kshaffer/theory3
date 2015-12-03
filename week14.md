@@ -91,7 +91,7 @@ You may use any written/video/audio resources I have provided, but do not consul
 
 #### Transcription/analysis no. 5
 
-Transcribe and analyze [passage TBA]() (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
+Transcribe and analyze [this classical piano passage](https://drive.google.com/open?id=0B9o4hmKNoi6cMFFJaFdFbkFNR2s) (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
 
 - **Score:** A piano staff (treble and bass) with proper key signature, time signature, and accurate notes and rhythms (you can omit trills, mordents, turns, grace notes, and the like)   
 - **Harmony:** Roman numerals and figured bass below the staff.  
