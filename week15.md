@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 15 – Determining exposition types
+title: Week 15 & Finals Week – Determining exposition types
 subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
 image: memory.jpg
 ---
@@ -17,78 +17,26 @@ image: memory.jpg
 
 ***Due Monday, December 7, 8am:*** *Transcription/Analysis 5*  
 ***Tuesday, December 8:*** *Fast transcription no. 3*  
-***Due Thursday, December 10, 8am:*** *Sonata analysis no. 2, Sonata analysis no. 1 reassessments (if necessary)*  
+***Due Thursday, December 10, 8am:*** *Sonata analysis no. 2*  
 ***Thursday, December 10:*** *Fast transcription no. 4*  
+
+***Due Thursday, December 17, 8am:*** *Final project*  
+***Due Thursday, December 17, 8am:*** *Sonata analysis 1 & 2 reassessments*  
+
 
 
 ## Core concepts
 
-- The continuous exposition  
-- The double-MC exposition  
-- TR => FS (*fortspinnung*)  
+We will primarily continue to explore and apply concepts from the past three weeks.   
 
-<!--
+
 ## Assignments
 
-### For Monday, November 30, 8am
-
-#### Reading
-
-Please read the following:
-
-- [Sonata Theory – exposition types](http://openmusictheory.com/SonataTheory-exposition.html) ("Multiple MCs" and "The continuous exposition")
-
-There will be no quiz for this reading, but we will need these concepts for the work we'll be doing in class on Monday.
-
-#### Transcription/analysis no. 4
-
-Transcribe and analyze [this classical keyboard passage](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cS194Mmo0NzhPeWM/view?usp=sharing) (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
-
-- **Score:** A piano staff (treble and bass) with proper key signature, time signature, and accurate notes and rhythms (you can omit trills, mordents, turns, grace notes, and the like)   
-- **Harmony:** Roman numerals and figured bass below the staff.  
-- **Functions/cadences:** Harmonic functions (T/PD/D) and cadences below the Roman numerals. *There should be one T–(PD)–D–(T) progression per cadence.*  
-
-Along with your score, submit a timeline analysis that includes the following (these will count towards the Theory 3 grade):  
-
-- Subphrases (bi, ci)  
-- Phrases (ant, cons, pres, cont, cbi)  
-- Theme type (two layers if a compound theme, as noted in *Open Music Theory*)  
-- Though not required, it may be helpful to reproduce the cadences on the timeline.
-
-I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process (string quartets, but still mostly applicable).
-
-Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [*Aural Skills 3* D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 14").
-
-Each of the bullet points listed above will be assessed on a three-point scale (same as pop/rock transcriptions). The "aural" and "theory" parts of the assignment each have three categories, total of 9 points each.
-
-
-### Thursday, December 3, 8am
-
-#### Sonata analysis no. 1
-
-Analyze the sonata structure of the following movements ([audio here](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cVzUzUEhfUlFxVzA&usp=sharing) — must be logged into CU Google account to access):
-
-- Beethoven, Piano Sonata in G Minor, Op. 49/1, i.  
-- Beethoven, Piano Sonata in G Major, Op. 49/2, i.  
-
-After listening and studying these movements, make a timeline for each (using Variations Audio Timeline or [paper](http://courses.shaffermusic.com/materials/timeline-blank.pdf)). On the timelines, be sure to label the following:
-
-- Structural points of arrival (medial caesura, essential expositional closure, essential sonata closure, crux)  
-- Theme-level modules (primary, transition, secondary, closing) — ***in both the exposition and the recapitulation***  
-- Movement-level modules (exposition, development, recapitulation)  
-
-See the model analyses I provided to you (in our shared folder on Google Drive under ["Sonata Timelines"](https://drive.google.com/open?id=0B9o4hmKNoi6cTEcxQ0p4YklyZFU)) — both paper and Variations Audio Timeliner — for examples of what yours should look like. Be sure to include all 15 elements listed above for each piece. Your grade will be simply the percentage of those 30 things accurately labeled on your timelines.
-
-You may use any written/video/audio resources I have provided, but do not consult other people while working on this assessment. (You are, as always, encouraged to review materials not related to this piece with your colleages as you prep for this analysis.)
-
-**Upload your finished timelines (either the .v2t files or PDF/image files of the paper timelines) to the Theory 3 D2L dropbox (under Content >> Week 14).** If you do your timelines in Variations Audio Timeliner, there is no need to upload the audio files, just the .v2t files.
-
-
-### Monday, December 7
+### Monday, December 7, 8am
 
 #### Transcription/analysis no. 5
 
-Transcribe and analyze [passage TBA]() (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
+Transcribe and analyze [this classical piano passage](https://drive.google.com/open?id=0B9o4hmKNoi6cMFFJaFdFbkFNR2s) (must be logged into Google Drive with CU credentials to access audio). Be sure to include all of the following in your transcription/analysis (these will count towards the Aural Skills 3 grade):
 
 - **Score:** A piano staff (treble and bass) with proper key signature, time signature, and accurate notes and rhythms (you can omit trills, mordents, turns, grace notes, and the like)   
 - **Harmony:** Roman numerals and figured bass below the staff.  
@@ -106,4 +54,43 @@ I have made a [video demo](https://vimeo.com/119572881) of my classical transcri
 Notate the transcription in notation software (such as MuseScore, NoteFlight, Finale, Sibelius, StaffPad, or Lilypond). Submit your transcription as two files: the original music notation file and a PDF score (in case we cannot open your original file). Upload these files to the [*Aural Skills 3* D2L site](https://learn.colorado.edu/d2l/home/120555) (under "Content" then "Week 15").
 
 Each of the bullet points listed above will be assessed on a three-point scale (same as pop/rock transcriptions). The "aural" and "theory" parts of the assignment each have three categories, total of 9 points each.
--->
+
+
+### Thursday, December 10, 8am
+
+#### Sonata analysis no. 2
+
+Analyze the sonata structure of the following movements, both of which have *continuous expositions/recapitulations* ([audio here](https://drive.google.com/open?id=0B9o4hmKNoi6cbVcwRzFfMGVmOUE) — must be logged into CU Google account to access):
+
+- Haydn, Symphony No. 2, first movement  
+- Haydn, Symphony No. 3, first movement  
+
+After listening and studying these movements, make a timeline for each (using Variations Audio Timeline or [paper](http://courses.shaffermusic.com/materials/timeline-blank.pdf)). On the timelines, be sure to label the following:
+
+- Structural points of arrival (medial caesura declined – if present, essential expositional closure, essential sonata closure, crux)  
+- Theme-level modules (primary, TR => FS, closing and/or codetta) — ***in both the exposition and the recapitulation***  
+- Movement-level modules (exposition, development, recapitulation)  
+
+See the model analyses I provided to you (in our shared folder on Google Drive under ["Sonata Timelines"](https://drive.google.com/open?id=0B9o4hmKNoi6cTEcxQ0p4YklyZFU)) — both paper and Variations Audio Timeliner — for examples of what yours should look like. Be sure to include all 14 elements listed above for each piece. Your grade will be simply the percentage of those 28 things accurately labeled on your timelines.
+
+You may use any written/video/audio resources I have provided, but do not consult other people while working on this assessment. (You are, as always, encouraged to review materials not related to this piece with your colleages as you prep for this analysis.)
+
+**Upload your finished timelines (either the .v2t files or PDF/image files of the paper timelines) to the Theory 3 D2L dropbox (under Content >> Week 15).** If you do your timelines in Variations Audio Timeliner, there is no need to upload the audio files, just the .v2t files.
+
+
+### Finals week
+
+#### Sonata analysis project
+
+Consult the two timelines uploaded into the class shared folder on Google Drive for [Mozart's "Haffner" symphony.](https://drive.google.com/open?id=0B9o4hmKNoi6cSzRkaEdPdlNKR2M) Decide which of the two timelines you think makes the most musical and/or theoretical sense — or which parts of each should be combined into a single timeline that makes better sense than these two. 
+
+Write a short paper (800 words maximum) or produce a short video (5 minutes maximum). In your paper/video, explain in detail which analysis you think makes more musical sense and why. You are also free to pick and choose elements from each analysis that you prefer.
+
+**Upload your finished timelines (either the .v2t files or PDF/image files of the paper timelines) and paper (PDF file) or video to the Theory 3 D2L dropbox (under Content >> Final).** If you do your timelines in Variations Audio Timeliner, there is no need to upload the audio files, just the .v2t files.
+
+
+#### Sonata reassessments ####
+
+If you were not satisfied with the quality (or grade) of any of your sonata analyses from assignments 1 or 2, please resubmit them in the D2L dropbox (Content >> Final). Be sure to make use of the feedback you received and revisit the original instructions/rubric and any readings that help you better understand the concepts.
+
+
