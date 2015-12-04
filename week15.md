@@ -91,6 +91,9 @@ Write a short paper (800 words maximum) or produce a short video (5 minutes maxi
 
 #### Sonata reassessments ####
 
+<!--
 If you were not satisfied with the quality (or grade) of any of your sonata analyses from assignments 1 or 2, please resubmit them in the D2L dropbox (Content >> Final). Be sure to make use of the feedback you received and revisit the original instructions/rubric and any readings that help you better understand the concepts.
+-->
 
+Details TBA.
 
