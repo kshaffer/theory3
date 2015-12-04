@@ -82,9 +82,35 @@ You may use any written/video/audio resources I have provided, but do not consul
 
 #### Sonata analysis project
 
-Consult the two timelines uploaded into the class shared folder on Google Drive for [Mozart's "Haffner" symphony.](https://drive.google.com/open?id=0B9o4hmKNoi6cSzRkaEdPdlNKR2M) Decide which of the two timelines you think makes the most musical and/or theoretical sense — or which parts of each should be combined into a single timeline that makes better sense than these two. 
+Consult the two timelines uploaded into the class shared folder on Google Drive for [Mozart's "Haffner" symphony.](https://drive.google.com/open?id=0B9o4hmKNoi6cSzRkaEdPdlNKR2M) They differ in a number of ways, and there are still other ways to interpret this piece, perhaps by combining features of one timeline with features of the other. 
 
-Write a short paper (800 words maximum) or produce a short video (5 minutes maximum). In your paper/video, explain in detail which analysis you think makes more musical sense and why. You are also free to pick and choose elements from each analysis that you prefer.
+After considering the interpretive implications of these two timelines, construct your own. It can match one of these completely, incorporate elements of each, or include wholly original interpretations. Decide which of the two timelines you think makes the most musical and/or theoretical sense — or which parts of each should be combined into a single timeline that makes better sense than these two — and reflect that in your timeline. 
+
+Then write a short paper (800 words maximum) or produce a short video (5 minutes maximum). In your paper/video, explain in detail which analysis you think makes more musical sense and why. You are also free to pick and choose elements from each analysis that you prefer.
+
+Since your timeline will include your identification of all musical elements, and since your space for explanation is limited, ***focus your written/video explanation on the elements that are the most complex or ambiguous.*** (Use the two sample timelines as a guide — the places where they differ are the most likely candidates for ambiguity/complexity.)
+
+There is obviously not a single correct answer that your analysis will be graded in light of. Rather, you will be assessed in light of whether or not you demonstrate an ability to interpret this moderately complex piece in light of the following conceptual categories:
+
+- exposition/recapitulation types  
+- sonata modules (P, TR, S, C, TR => FS)  
+- structural points of arrival (MC, EEC, ESC)  
+
+Each of these areas will be assessed for whether or not you meet the following three objectives:
+
+- Identify and label those features in your timeline accurately and consistently.  
+- Identify the complex and/or ambiguous elements in the movement's sonata form.  
+- Explain verbally your reason for analyzing the complex/ambiguous elements the way that you did.
+
+For each of the three conceptual categories, you will receive up to 4 points:
+
+- **4 points:** Successfully meet all three objectives.  
+- **3 points:** Successfully meet two of the three objectives.  
+- **2 points:** Successfully meet one of the three objectives.  
+- **1 point:** A complete attempt that does not successfully accomplish any of the objectives.  
+- **0 points:** Incomplete or unattempted.
+
+Your grade for the project will be the percentage of the 12 possible total points achieved.
 
 **Upload your finished timelines (either the .v2t files or PDF/image files of the paper timelines) and paper (PDF file) or video to the Theory 3 D2L dropbox (under Content >> Final).** If you do your timelines in Variations Audio Timeliner, there is no need to upload the audio files, just the .v2t files.
 
