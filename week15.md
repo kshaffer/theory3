@@ -124,9 +124,14 @@ Choose a sonata-form movement by Mozart, Beethoven, or Haydn that you know well 
 
 #### Sonata reassessments ####
 
-<!--
-If you were not satisfied with the quality (or grade) of any of your sonata analyses from assignments 1 or 2, please resubmit them in the D2L dropbox (Content >> Final). Be sure to make use of the feedback you received and revisit the original instructions/rubric and any readings that help you better understand the concepts.
--->
+If you were not satisfied with the quality (or grade) of any of your sonata analyses from assignments 1 or 2, you may do the following reassessment assignment:
 
-Details TBA.
+Study my timeline analyses of these pieces (in Google Drive under ["Handouts and Keys"](https://drive.google.com/open?id=0B9o4hmKNoi6cfjkweVA5NkNfdzZ4RXNMNTFybG43SlRPdVVmZThkU0VFZlFVNHpaai1Lak0)). Compare my analyses to the analysis that you submitted, and look at the feedback you received in D2L. Identify one or more concepts (from the list of things that were each assigned grades) that you would like to reassess to bring your grade up to full credit in those areas.
 
+In a single video *of no more than **two** minutes in length* for each sonata assignment, show your analysis and explain either 1) why you're correct and the model analysis is incorrect, or 2) why the model analysis fits better than what you originally analyzed. (You can hold it up to the camera, do a "screencast" if you know how, or you can try to figure out how to include a screenshot in the video; low-tech is totally fine, as long as we can understand you.) 
+
+The goal is to demonstrate that you now understand concepts you were marked down for in the first attempt, so be sure to include specific musical or theoretical details. For example, don't say "what I labeled as a P theme is really a transition"; instead, say "this passage should be a transition because the tutti affirmation increases the energy and the modulating Prinner leads to the secondary key."
+
+***You can make two two-minute videos ― one for the two-part sonata assignment, one for continuous ― not one per movement.*** 
+
+Submit your video to the dropbox in the Theory 3 D2L site.
