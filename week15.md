@@ -82,6 +82,8 @@ You may use any written/video/audio resources I have provided, but do not consul
 
 #### Sonata analysis project
 
+##### Option 1
+
 Consult the two timelines uploaded into the class shared folder on Google Drive for [Mozart's "Haffner" symphony.](https://drive.google.com/open?id=0B9o4hmKNoi6cSzRkaEdPdlNKR2M) They differ in a number of ways, and there are still other ways to interpret this piece, perhaps by combining features of one timeline with features of the other. 
 
 After considering the interpretive implications of these two timelines, construct your own. It can match one of these completely, incorporate elements of each, or include wholly original interpretations. Decide which of the two timelines you think makes the most musical and/or theoretical sense — or which parts of each should be combined into a single timeline that makes better sense than these two — and reflect that in your timeline. 
@@ -114,6 +116,11 @@ Your grade for the project will be the percentage of the 12 possible total point
 
 **Upload your finished timelines (either the .v2t files or PDF/image files of the paper timelines) and paper (PDF file) or video to the Theory 3 D2L dropbox (under Content >> Final).** If you do your timelines in Variations Audio Timeliner, there is no need to upload the audio files, just the .v2t files.
 
+##### Option 2
+
+Choose a sonata-form movement by Mozart, Beethoven, or Haydn that you know well but would like to understand more deeply. Without possible timeline guides from me, perform the same analysis as Option 1. Submit following the same procedure.
+
+***If you choose Option 2, you must get your piece approved by me by Friday, December 11, noon.***
 
 #### Sonata reassessments ####
 
