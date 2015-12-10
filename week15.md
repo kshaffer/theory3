@@ -22,6 +22,7 @@ image: memory.jpg
 
 ***Due Thursday, December 17, 8am:*** *Final project*  
 ***Due Thursday, December 17, 8am:*** *Sonata analysis 1 & 2 reassessments*  
+***Due Thursday, December 17, 8am:*** *Nov 19 conceptual video reassessments*  
 
 
 
@@ -135,3 +136,7 @@ The goal is to demonstrate that you now understand concepts you were marked down
 ***You can make two two-minute videos ― one for the two-part sonata assignment, one for continuous ― not one per movement.*** 
 
 Submit your video to the dropbox in the Theory 3 D2L site.
+
+#### Conceptual video reassessments ####
+
+If you did not pass one or both of your November 19 conceptual videos, you may submit a reassessment into the D2L dropbox (Content >> Final).
